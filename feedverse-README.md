@@ -2,8 +2,7 @@
 
 ## Todo
 ### Authentication
-- Login
-  - 2FA
+- 2FA
 
 ### Newsfeed
 - Show when someone unfriends you

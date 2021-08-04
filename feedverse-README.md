@@ -1,9 +1,4 @@
 # feedverse.net
- 
-There is a reference to `config.inc.php` file that is missing in the repo. That holds:
-- The DB connection
-- API keys
-- SEO Text
 
 ## Todo
 ### Authentication

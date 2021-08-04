@@ -122,5 +122,6 @@
 -----------------------
 # Credits & Resources
 - All my friends - Thank you for believing in me and being patient with the slow development while I had very frequent doctors appointments and frequiently ended up in the hospital.
+- [feedverse.net Techology Profile - Builtwith.com](https://builtwith.com/feedverse.net) - Show off the technology I am using to create Feedverse.
 - [MDBootstrap](https://mdbootstrap.com/) - The layout, responsiveness, some functionality framework.
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - What makes sending emails possible.

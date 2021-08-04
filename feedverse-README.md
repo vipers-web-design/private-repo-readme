@@ -33,6 +33,7 @@ I've created a Donation button to seek help with the costs, [Donate With PayPal]
   - If you sign up within the first 60 days of launch and subscribe after the site is 2 months and before 3 months old: US$2.50/month
   - If you sign up after the site is 2 months and and subscribe within the first 30 days of registration: US$2.50/month
   - If you sign up after the site is 2 months old and wait over a month to subscribe: US$5/month
+- Phone apps
 
 ## Finished
 ### Authentication

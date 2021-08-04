@@ -14,6 +14,9 @@
 - Family posts, news and event planning
 - The geneology tree
 
+### Pictures
+- Just everything still, won't work on this until I get S3 set up.
+
 ### Settings
 - Change Password
 - other recommendations
@@ -53,8 +56,9 @@
 - Shows list of friends
 
 ### Public
-- Define filters (only can set age and the 'reverse filter' -> enabled by default)
+- Define filters
   - shows your friend's PUBLIC posts in the "Public" feed
+- "Reverse Filter" (currently admin, will also be subscriber only)
 
 ### Post
 - Marks wall post and any reactions as "seen" when coming to this page

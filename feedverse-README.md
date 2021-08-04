@@ -76,7 +76,8 @@
 - Made a mistake blocking someone, you can unblock them
 
 ### General
-- Time localization, for the most part
+- Ads (for non-subscribers)
+- Time localization
 - Post statuses / Post to another user's wall
 - "Friend Request" system operational (add, remove, cancel, block, unblock)
   - Finished "block" logic

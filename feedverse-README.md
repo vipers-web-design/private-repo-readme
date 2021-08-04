@@ -92,6 +92,8 @@
 - Can see which friends are online on the right side
 - Finished notify status poster about a new like- post status comment
 - Legal pages, gotta be transparent -- suck it Facebook
+  - [Privacy Policy](https://www.feedverse.net/privacy-policy)
+  - [Terms of Use](https://www.feedverse.net/terms-of-use)
 
 ## Enhance
 ### Profile

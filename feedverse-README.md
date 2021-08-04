@@ -1,5 +1,8 @@
 # feedverse.net
 
+Right now the domain rests on a Shared Hosting server, with my business website a couple of sites I made for friends. This plan will not support the traffic for a site of this genre.\
+I've created a Donation button to seek help with the costs, [Donate With PayPal](https://www.paypal.com/donate?token=Zt3BwCxjNdiJKflAXIQCpf0Q9etoJ0gWt0Wse2eViZP0CsC_z8pWYr5G3yrCclwyXFbbbbT4fiZZisFQ)
+
 ## Todo
 ### Authentication
 - 2FA

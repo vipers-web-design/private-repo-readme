@@ -85,7 +85,7 @@ I've created a Donation button to seek help with the costs, [Donate With PayPal]
 - Made a mistake blocking someone, you can unblock them
 
 ### General
-- Ads (for non-subscribers)
+- Ads
 - Time localization
 - Post statuses / Post to another user's wall
 - "Friend Request" system operational (add, remove, cancel, block, unblock)

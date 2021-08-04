@@ -99,7 +99,7 @@ I've created a Donation button to seek help with the costs, [Donate With PayPal]
   - if comment textarea is empty, "comment" button is disabled to prevent submitting without text
 - Can see which friends are online on the right side
 - Finished notify status poster about a new like- post status comment
-- Legal pages, gotta be transparent -- suck it Facebook
+- Legal pages, gotta be transparent
   - [Privacy Policy](https://www.feedverse.net/privacy-policy)
   - [Terms of Use](https://www.feedverse.net/terms-of-use)
 

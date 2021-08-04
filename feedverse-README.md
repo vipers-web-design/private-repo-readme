@@ -63,6 +63,7 @@ I've created a Donation button to seek help with the costs, [Donate With PayPal]
 - Define filters
   - shows your friend's PUBLIC posts in the "Public" feed
 - "Reverse Filter" (currently admin, will also be subscriber only)
+  - How the reverse filter will work, say you set your age preference between 22 - 31. Accounts between those ages will show for you, while everyone from 18 - 125 years old can find you, if you are in their preferred age range... like a standard filter form. IF you are a subscriber and have this enabled (which will be by default), accounts between those ages that you defined can only see you if you are in their age range.
 
 ### Post
 - Marks wall post and any reactions as "seen" when coming to this page

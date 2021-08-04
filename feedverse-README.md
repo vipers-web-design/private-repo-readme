@@ -1,7 +1,10 @@
 # feedverse.net
 
 Right now the domain rests on a Shared Hosting server, with my business website a couple of sites I made for friends. This plan will not support the traffic for a site of this genre.\
-I've created a Donation button to seek help with the costs, [Donate With PayPal](https://www.paypal.com/donate?token=Zt3BwCxjNdiJKflAXIQCpf0Q9etoJ0gWt0Wse2eViZP0CsC_z8pWYr5G3yrCclwyXFbbbbT4fiZZisFQ)
+I've created a Donation button to seek help with the costs, [Donate With PayPal](https://www.paypal.com/donate?token=Zt3BwCxjNdiJKflAXIQCpf0Q9etoJ0gWt0Wse2eViZP0CsC_z8pWYr5G3yrCclwyXFbbbbT4fiZZisFQ)\
+If you want to know when I launch;
+- Please 'Like' my Facebook pages [Feedverse.net - Facebook](https://www.facebook.com/feedverse/) and [Viper's Web Design - Facebook](https://www.facebook.com/viperswebdesign)
+- Please follow my business Twitter account at [Viper's Web Design - Twitter](https://twitter.com/viperswebdesign)
 
 ## Todo
 ### Authentication

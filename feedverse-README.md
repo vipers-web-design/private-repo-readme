@@ -40,6 +40,7 @@ If you want to know when I launch;
 
 ### General
 - User search / autocomplete
+- Feed infinate scroll
 - Edit / Delete / Report status updates and comments
 - Allow images to be uploaded --- need to get AWS S3
 - Premium subscription (subscribers will be ad-free)

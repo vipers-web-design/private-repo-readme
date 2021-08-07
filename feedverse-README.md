@@ -13,6 +13,10 @@ If you want to know when I launch;
 ### Newsfeed
 - Show when someone unfriends you
 
+### Profile
+- "About" section
+  - Geneology tagging
+
 ### Messages
 - Private message system (and notifications)
 

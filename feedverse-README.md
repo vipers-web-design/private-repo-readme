@@ -147,7 +147,7 @@ If you want to know when I launch;
 -----------------------
 # Credits & Resources
 - All my friends - Thank you for being awesome and believing in me.
-- Thank you to both [@Ravavyr](https://github.com/Ravavyr) and [@OpenSourcerer](https://github.com/OpenSourcerer) for being a metaphorical soundboard and helping me for making me a better PHP developer that I am today.
+- Thank you to both [@Ravavyr](https://github.com/Ravavyr) and [@OpenSourcerer](https://github.com/OpenSourcerer) for being a soundboard and helping me become a better PHP developer that I am today.
 - [feedverse.net Techology Profile - Builtwith.com](https://builtwith.com/feedverse.net) - Show off the technology I am using to create Feedverse.
 - [MDBootstrap](https://mdbootstrap.com/) - The layout, responsiveness, some functionality framework.
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - What makes sending emails possible.

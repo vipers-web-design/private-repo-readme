@@ -95,6 +95,7 @@ If you want to know when I launch;
 - Shows how many comments you've written and gotten
 
 ### Settings
+- Deep linked tabs to become shareable
 - Change name
 - Turn invisible (currently admin only, soon will be subscriber only)
 - Made a mistake blocking someone, you can unblock them

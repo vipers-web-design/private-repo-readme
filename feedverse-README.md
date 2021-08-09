@@ -50,6 +50,22 @@ If you want to know when I launch;
   - If you sign up after the site is 2 months old and wait over a month to subscribe: US$5/month
 - Create phone apps for Android and iOS
 
+## Enhance
+### Profile
+- Update the rest of the "About" section
+  - Edit current city
+  - Geneology tagging
+- Privacy
+
+### Public
+- Filter form
+
+### Post
+- Mark comments as "seen" when you are reading a specific post thead
+
+### General
+- Responsiveness
+
 ## Finished
 ### Authentication
 - Register
@@ -119,22 +135,6 @@ If you want to know when I launch;
 - Legal pages, gotta be transparent
   - [Privacy Policy](https://www.feedverse.net/privacy-policy)
   - [Terms of Use](https://www.feedverse.net/terms-of-use)
-
-## Enhance
-### Profile
-- Update the rest of the "About" section
-  - Edit current city
-  - Geneology tagging
-- Privacy
-
-### Public
-- Filter form
-
-### Post
-- Mark comments as "seen" when you are reading a specific post thead
-
-### General
-- Responsiveness
 
 ## Addons
 ### General

@@ -39,6 +39,7 @@ If you want to know when I launch;
 - other recommendations
 
 ### General
+- Proper error messages if queries fail
 - User search / autocomplete
 - Feed infinate scroll
 - Edit / Delete / Report status updates and comments

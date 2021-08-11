@@ -36,8 +36,7 @@ If you want to know when I launch;
 - Just everything still, won't work on this until I get S3 set up.
 
 ### Settings
-- Change Password
-- other recommendations
+- Need ideas....
 
 ### General
 - Proper error messages if queries fail
@@ -113,9 +112,10 @@ If you want to know when I launch;
 - Shows how many comments you've written and gotten
 
 ### Settings
-- Deep linked tabs to become shareable
+- Deep linked tabs to become shareable if you need to show were a setting is located
 - Change name
 - Turn invisible (currently admin only, soon will be subscriber only)
+- Change Password
 - Made a mistake blocking someone, you can unblock them
 
 ### General

@@ -143,8 +143,8 @@ If you want to know when I launch;
 - Mentions (status/wallposts ... maybe comments) ... and notifications
 - Hashtag 
 
-### Business / Like / Fan pages
-### Group pages
+#### Business / Like / Fan pages
+#### Group pages
 
 -----------------------
 ## Resources

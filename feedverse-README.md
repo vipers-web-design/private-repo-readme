@@ -36,6 +36,7 @@ If you want to know when I launch;
 - Just everything still, won't work on this until I get S3 set up.
 
 ### Settings
+- Privacy
 - Need ideas....
 
 ### General

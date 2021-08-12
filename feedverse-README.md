@@ -52,6 +52,9 @@ If you want to know when I launch;
   - If you sign up after the site is 2 months old and wait over a month to subscribe: US$5/month
 - Create phone apps for Android and iOS
 
+### Admin Controls
+- Everything in one convenient place for admins and moderators
+
 ## Enhance
 ### Profile
 - Update the rest of the "About" section

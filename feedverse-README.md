@@ -153,6 +153,7 @@ If you want to know when I launch;
 -----------------------
 ## Resources
 - [AWS SDK for PHP](https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/welcome.html) - To upload images to Amazon S3
+- [FontAwesome](https://fontawesome.com/) - For all the cool icons
 - [MDBootstrap](https://mdbootstrap.com/) - The layout, responsiveness, some functionality framework.
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - What makes sending emails possible.
 

@@ -32,9 +32,6 @@ If you want to know when I launch;
 - Family posts, news and event planning
 - The geneology tree
 
-### Pictures
-- Just everything still, won't work on this until I get S3 set up.
-
 ### Settings
 - Privacy
 - Need ideas....
@@ -42,6 +39,8 @@ If you want to know when I launch;
 ### General
 - Proper error messages if queries fail
 - User search / autocomplete
+- Image upload where necessary
+  - Can't work on this until I get S3 set up
 - Feed infinate scroll
 - Edit / Delete / Report status updates and comments
 - Allow images to be uploaded --- need to get AWS S3

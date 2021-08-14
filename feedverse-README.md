@@ -33,8 +33,9 @@ If you want to know when I launch;
 - The geneology tree
 
 ### Settings
-- Privacy
-- Need ideas....
+- "Profile" / "Profile & Tagging" tab
+  - Limit who can post on your wall
+- .... need more ideas
 
 ### General
 - Proper error messages if queries fail
@@ -44,7 +45,7 @@ If you want to know when I launch;
 - Feed infinate scroll
 - Edit / Delete / Report status updates and comments
 - Allow images to be uploaded --- need to get AWS S3
-- Premium subscription (subscribers will be ad-free)
+- Premium subscription (subscribers will be ad-free) **#### Fees Subject to Change ####**
   - If you sign up within the first 60 days of launch and subscribe before the site is ~2 months old: US$1/month
   - If you sign up within the first 60 days of launch and subscribe after the site is 2 months and before 3 months old: US$2.50/month
   - If you sign up after the site is 2 months and and subscribe within the first 30 days of registration: US$2.50/month
@@ -114,12 +115,16 @@ If you want to know when I launch;
 - Shows how many likes you gave and received
 - Shows how many comments you've written and gotten
 
-### Settings
+### Settings (Kind of following Facebook's flow)
 - Deep linked tabs to become shareable if you need to show were a setting is located
-- Change name
-- Turn invisible (currently admin only, soon will be subscriber only)
-- Change Password
-- Made a mistake blocking someone, you can unblock them
+- "General" tab
+  - Change name
+- "Security & Login" tab
+  - Change Password
+- "Privacy" tab
+  - Enable / Disable stealth - won't show up in profile views (currently admin only, soon will be subscriber only)
+- "Blocking" tab
+  - Can unblock people
 
 ### General
 - Ads

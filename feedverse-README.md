@@ -163,4 +163,4 @@ If you want to know when I launch;
 
 ## Credits
 - All my friends - Thank you for being awesome and believing in me.
-- Thank you to both [@Ravavyr](https://github.com/Ravavyr) and [@OpenSourcerer](https://github.com/OpenSourcerer) for being a soundboard and helping me become a better PHP developer that I am today.
+- Thank you to both [@Ravavyr](https://github.com/Ravavyr) for being a soundboard and helping me become a better PHP developer that I am today.

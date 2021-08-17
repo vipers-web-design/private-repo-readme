@@ -1,4 +1,23 @@
 # feedverse.net
+## Table of Contents
+| [Todo](#todo) | [Enhance](#enhance) | [Finished](#finished) | [Addons](#addons) |
+| - | - | - | - |
+| [Authentication](#authentication) | - | [Authentication](#authentication-1) | - |
+| [Newsfeed](#newsfeed) | - | [Newsfeed](#newsfeed-1) | - |
+| [Profile](#profile) | [Profile](#profile-1) | [Profile](#profile-2) | - |
+| - | - | [Profile Views](#profile-views) | - |
+| - | [Public](#public) | [Public](#public-1) | - |
+| - | [Post](#post) | [Post](#post-1) | - |
+| [Messages](#messages) | - | - | - |
+| - | [Stats](#stats) | [Stats](#stats-1) | - |
+| [Family](#family) | - | - | - |
+| [Settings](#settings) | - | [Settings](#settings-1) | - |
+| [General](#general) | [General](#general-1) | [General](#general-2) | [General](#general-3) |
+| [Admin Controls](#admin-controls) | - | - | - |
+| - | - | - | [Business / Like / Fan pages](#business--like--fan-pages) |
+| - | - | - | [Group pages](#group-pages) |
+
+## Summary
 [feedverse.net Techology Profile - Builtwith.com](https://builtwith.com/feedverse.net) - Show off the technology I am using to create Feedverse.
 
 #### My goals:
@@ -68,6 +87,9 @@ If you want to know when I launch;
 ### Post
 - Mark comments as "seen" when you are reading a specific post thead
 
+### Stats
+- Share button
+
 ### General
 - Responsiveness
 
@@ -115,7 +137,8 @@ If you want to know when I launch;
 - Shows how many likes you gave and received
 - Shows how many comments you've written and gotten
 
-### Settings (Kind of following Facebook's flow)
+### Settings
+##### (Kind of following Facebook's flow)
 - Deep linked tabs to become shareable if you need to show were a setting is located
 - "General" tab
   - Change name

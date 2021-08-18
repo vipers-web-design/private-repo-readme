@@ -1,6 +1,6 @@
 # feedverse.net
 ## Table of Contents
-| [Todo](#todo) | [Enhance](#enhance) | [Finished](#finished) | [Addons](#addons) |
+| Todo | Enhance | Finished | Addons |
 | - | - | - | - |
 | [Authentication](#authentication) | - | [Authentication](#authentication-1) | - |
 | [Newsfeed](#newsfeed) | - | [Newsfeed](#newsfeed-1) | - |

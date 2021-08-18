@@ -7,12 +7,12 @@
 | [Profile](#profile) | [Profile](#profile-1) | [Profile](#profile-2) | - |
 | - | - | [Profile Views](#profile-views) | - |
 | - | [Public](#public) | [Public](#public-1) | - |
-| - | [Post](#post) | [Post](#post-1) | - |
+| - | [Post](#post) | [Post](#post-1) | [Post](#post-2) |
 | [Messages](#messages) | - | - | - |
 | - | [Stats](#stats) | [Stats](#stats-1) | - |
 | [Family](#family) | - | - | - |
 | [Settings](#settings) | - | [Settings](#settings-1) | - |
-| [General](#general) | [General](#general-1) | [General](#general-2) | [General](#general-3) |
+| [General](#general) | [General](#general-1) | [General](#general-2) | - |
 | [Admin Controls](#admin-controls) | - | - | - |
 | - | - | - | [Business / Like / Fan pages](#business--like--fan-pages) |
 | - | - | - | [Group pages](#group-pages) |
@@ -170,7 +170,7 @@ If you want to know when I launch;
   - [Terms of Use](https://www.feedverse.net/terms-of-use)
 
 ## Addons
-### General
+### Post
 - Mentions (status/wallposts ... maybe comments) ... and notifications
 - Hashtag 
 

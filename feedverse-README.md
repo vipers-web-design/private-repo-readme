@@ -14,7 +14,7 @@
 - [General](#general)
 - [Admin Controls](#admin-controls)
 - [Business / Like / Fan pages](#business--like--fan-pages)
-- [Group pages](#group-pages) |
+- [Group pages](#group-pages)
 
 ## Summary
 [feedverse.net Techology Profile - Builtwith.com](https://builtwith.com/feedverse.net) - Show off the technology I am using to create Feedverse.

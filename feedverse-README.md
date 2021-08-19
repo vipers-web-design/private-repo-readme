@@ -1,21 +1,20 @@
 # feedverse.net
 ## Table of Contents
-| Todo | Enhance | Finished | Addons |
-| - | - | - | - |
-| [Authentication](#authentication) | - | [Authentication](#authentication-1) | - |
-| [Newsfeed](#newsfeed) | - | [Newsfeed](#newsfeed-1) | - |
-| [Profile](#profile) | [Profile](#profile-1) | [Profile](#profile-2) | - |
-| - | - | [Profile Views](#profile-views) | - |
-| - | [Public](#public) | [Public](#public-1) | - |
-| - | [Post](#post) | [Post](#post-1) | [Post](#post-2) |
-| [Messages](#messages) | - | - | - |
-| - | [Stats](#stats) | [Stats](#stats-1) | - |
-| [Family](#family) | - | - | - |
-| [Settings](#settings) | - | [Settings](#settings-1) | - |
-| [General](#general) | [General](#general-1) | [General](#general-2) | - |
-| [Admin Controls](#admin-controls) | - | - | - |
-| - | - | - | [Business / Like / Fan pages](#business--like--fan-pages) |
-| - | - | - | [Group pages](#group-pages) |
+
+- [Authentication](#authentication)
+- [Newsfeed](#newsfeed)
+- [Profile](#profile)
+- [Profile Views](#profile-views)
+- [Public](#public)
+- [Post](#post)
+- [Messages](#messages)
+- [Stats](#stats)
+- [Family](#family)
+- [Settings](#settings)
+- [General](#general)
+- [Admin Controls](#admin-controls)
+- [Business / Like / Fan pages](#business--like--fan-pages)
+- [Group pages](#group-pages) |
 
 ## Summary
 [feedverse.net Techology Profile - Builtwith.com](https://builtwith.com/feedverse.net) - Show off the technology I am using to create Feedverse.

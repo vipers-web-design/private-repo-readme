@@ -34,12 +34,15 @@ If you want to know when I launch;
 - Please follow my business Twitter account at [Viper's Web Design - Twitter](https://twitter.com/viperswebdesign)
 - Join my [Discord](https://discord.gg/dXvNqP2e4w) and agree to the Rules & Regulations, then select the Feedverse icon
 
-## Todo
+## Checklist
 ### Authentication
-- 2FA
+- [x] Register / Activate
+- [x] Sign In / Sign Out
+- [x] Reset Password
+- [ ] 2FA
 
 ### Newsfeed
-- Show when someone unfriends you
+- [ ] Show when someone unfriends you
 
 ### Profile
 - "About" section

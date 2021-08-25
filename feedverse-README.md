@@ -26,16 +26,23 @@
 ![image](https://user-images.githubusercontent.com/8532498/128605918-c1d713e7-cca4-4bc9-86f5-aff3a6bc7827.png)
 
 Right now the domain rests on a Shared Hosting server, with my business website a couple of sites I made for friends. This plan will not support the traffic for a site of this genre.\
-I've created a Donation button to seek help with the costs, [Donate With PayPal](https://www.paypal.com/donate?token=Zt3BwCxjNdiJKflAXIQCpf0Q9etoJ0gWt0Wse2eViZP0CsC_z8pWYr5G3yrCclwyXFbbbbT4fiZZisFQ)\
+I've created a Donation button to seek help with the costs,\
+<a href="https://www.paypal.com/donate?hosted_button_id=MSPMGLUUTWJ6L" target="_blank">
+  <img src="https://user-images.githubusercontent.com/8532498/130795642-30b8328d-011f-478a-b714-3a712008f511.jpg">
+</a>
 \
 If you want to know when I launch;
 - Please 'Like' my Facebook pages
   - [Feedverse.net - Facebook](https://www.facebook.com/feedverse/)
   - [Viper's Web Design - Facebook](https://www.facebook.com/viperswebdesign)
 - Please follow my business Twitter account at [Viper's Web Design - Twitter](https://twitter.com/viperswebdesign)
-- Join my [Discord](https://discord.gg/dXvNqP2e4w)
+- Join my Discord
   - Step 1: Agree to the `#rules-and-regulations` channel
   - Step 2: Select the Feedverse icon in the `#select-your-roles` channel
+<a href="https://discord.gg/dXvNqP2e4w" target="_blank">
+  <img src="https://user-images.githubusercontent.com/8532498/130799664-337a0bc5-639d-45f4-8152-a01f7142ceca.png">
+</a>
+
 
 #### Legend
 | Finished | Enhance | Todo |

@@ -45,33 +45,47 @@ If you want to know when I launch;
 
 
 #### Legend
-| Finished | Enhance | Todo |
-|-|-|-|
-| :heavy_check_mark: | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> |
+<table>
+  <thead>
+    <tr>
+      <th>Finished</th>
+      <th>Enhance</th>
+      <th>Todo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>:heavy_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:pencil:</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Checklist
 ### Authentication
 - :heavy_check_mark: Register / Account Activation
 - :heavy_check_mark: Sign In / Sign Out
 - :heavy_check_mark: Reset Password
-- [ ] 2FA
+- :pencil: 2FA
 
 ### Newsfeed
 - :heavy_check_mark: 1-click Birthday wish
 - :heavy_check_mark: Pending requests
   - New friends
   - Accept someone's "Feedverse official" request if you're dating them
-- [ ] Show when someone unfriends you
+- :pencil: Show when someone unfriends you
 
 ### Profile
 - :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
+- :white_check_mark: Privacy
 - "About" section
   - :heavy_check_mark: Bio
   - :heavy_check_mark: Basic Information (Gender, Religious & Political Views)
   - :heavy_check_mark: Set Hometown
-  - [ ] Edit current city
-  - [ ] Geneology tagging
-- [x] Privacy
+  - :pencil: Website and other links
+  - :pencil: Edit current city
+  - :pencil: Geneology tagging
 - :heavy_check_mark: Friends List
 
 ### Public
@@ -79,22 +93,26 @@ If you want to know when I launch;
   - :heavy_check_mark: Age
   - :heavy_check_mark: Relationship status
   - :heavy_check_mark: Gender
+  - :pencil: Location
+    - Subscribers will be able to select a locality _AND_ radius distance, basic members will only be able to select a locality _OR_ radius.
+  - :pencil: Ethnicity (?)
+    - Subscribers only if I include this filter, since I let users can set their ethnicity ... why not include a filter for it?
   - *_shows your friend's PUBLIC posts in the "Public" feed_
-- [x] "Reverse Filter" (currently admin, will also be subscriber only)
+- :white_check_mark: "Reverse Filter" (currently admin, will also be subscriber only)
   - How the reverse filter will work, say you set your age preference between 22 - 31. Accounts between those ages will show for you, while everyone from 18 - 125 years old can find you, if you are in their preferred age range... like a standard filter form. IF you are a subscriber and have this enabled (which will be by default), accounts between those ages that you defined can only see you if you are in their age range.
 
 ### Post
 - Marks the following as "seen" when reading the single post
   - :heavy_check_mark: Received wallposts
   - :heavy_check_mark: Received reactions
-  - [ ] Received comments
+  - :pencil: Received comments
 
 ### Messages
-- [ ] Private message system (& notifications)
+- :pencil: Private message system (& notifications)
 
 ### Family
-- [ ] Family posts, news and event planning
-- [ ] The geneology tree
+- :pencil: Family posts, news and event planning
+- :pencil: The geneology tree
 
 ### Profile Views
 - :heavy_check_mark: Shows you who've visited your profile (needs to change the layout)
@@ -106,7 +124,7 @@ If you want to know when I launch;
 - :heavy_check_mark: Shows wall posts you wrote and recieved
 - :heavy_check_mark: Shows how many likes you gave and received
 - :heavy_check_mark: Shows how many comments you've written and gotten
-- [ ] Shows how many shares you've made and how many posts were shared
+- :pencil: Shows how many shares you've made and how many posts were shared
 
 ### Settings
 ##### (Kind of following Facebook's flow)
@@ -118,12 +136,12 @@ If you want to know when I launch;
 - "Privacy" tab
   - :heavy_check_mark: Enable / Disable stealth - won't show up in profile views (currently admin only, soon will be subscriber only)
 - "Profile" / "Profile & Tagging" tab
-  - [ ] Limit who can post on your wall
+  - :pencil: Limit who can post on your wall
 - "Blocking" tab
   - :heavy_check_mark: Can unblock people
 
 ### General
-- [x] Responsiveness
+- :white_check_mark: Responsiveness
 - :heavy_check_mark: Ads (subscribers will be ad-free)
 - :heavy_check_mark: Time localization
 - :heavy_check_mark: Post statuses / Post to another user's wall
@@ -141,21 +159,21 @@ If you want to know when I launch;
 - :heavy_check_mark: Legal pages, gotta be transparent
   - [Privacy Policy](https://www.feedverse.net/privacy-policy)
   - [Terms of Use](https://www.feedverse.net/terms-of-use)
-- [ ] Proper error messages if queries fail
-- [ ] User search / autocomplete
-- [ ] Feed infinate scroll
-- [ ] Edit / Delete / Report status updates and comments
-- [ ] Premium subscription (subscribers will be ad-free) **#### Fees Subject to Change ####**
+- :pencil: Proper error messages if queries fail
+- :pencil: User search / autocomplete
+- :pencil: Feed infinate scroll
+- :pencil: Edit / Delete / Report status updates and comments
+- :pencil: Premium subscription (subscribers will be ad-free) **#### Fees Subject to Change ####**
   - If you sign up within the first 60 days of launch and subscribe before the site is ~2 months old: US$1/month
   - If you sign up within the first 60 days of launch and subscribe after the site is 2 months and before 3 months old: US$2.50/month
   - If you sign up after the site is 2 months and and subscribe within the first 30 days of registration: US$2.50/month
   - If you sign up after the site is 2 months old and wait over a month to subscribe: US$5/month
-- [ ] Image upload where necessary
+- :pencil: Image upload where necessary
   - Can't work on this until I get S3 set up
-- [ ] Create phone apps for Android and iOS
+- :pencil: Create phone apps for Android and iOS
 
 ### Admin Controls
-- [ ] Everything
+- :pencil: Everything
 
 ### Addons
 #### Post
@@ -170,7 +188,7 @@ If you want to know when I launch;
 ## Resources
 - [AWS SDK for PHP](https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/welcome.html) - To upload images to Amazon S3
 - [FontAwesome](https://fontawesome.com/) - For all the cool icons
-- [MDBootstrap](https://mdbootstrap.com/) - The layout, responsiveness, some functionality framework.
+- [MDBootstrap](https://mdbootstrap.com/) - The quick layout, basic responsiveness, and some functionality.
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - What makes sending emails possible.
 
 ## Credits

@@ -72,7 +72,6 @@ If you want to know when I launch;
   - :heavy_check_mark: Age
   - :heavy_check_mark: Relationship status
   - :heavy_check_mark: Gender
-  - [ ] Other suggestions
   - *_shows your friend's PUBLIC posts in the "Public" feed_
 - [x] "Reverse Filter" (currently admin, will also be subscriber only)
   - How the reverse filter will work, say you set your age preference between 22 - 31. Accounts between those ages will show for you, while everyone from 18 - 125 years old can find you, if you are in their preferred age range... like a standard filter form. IF you are a subscriber and have this enabled (which will be by default), accounts between those ages that you defined can only see you if you are in their age range.

@@ -13,8 +13,7 @@
 - [Settings](#settings)
 - [General](#general)
 - [Admin Controls](#admin-controls)
-- [Business / Like / Fan pages](#business--like--fan-pages)
-- [Group pages](#group-pages)
+- [Addons](#addons)
 
 ## Summary
 [feedverse.net Techology Profile - Builtwith.com](https://builtwith.com/feedverse.net) - Show off the technology I am using to create Feedverse.
@@ -30,156 +29,136 @@ Right now the domain rests on a Shared Hosting server, with my business website 
 I've created a Donation button to seek help with the costs, [Donate With PayPal](https://www.paypal.com/donate?token=Zt3BwCxjNdiJKflAXIQCpf0Q9etoJ0gWt0Wse2eViZP0CsC_z8pWYr5G3yrCclwyXFbbbbT4fiZZisFQ)\
 \
 If you want to know when I launch;
-- Please 'Like' my Facebook pages [Feedverse.net - Facebook](https://www.facebook.com/feedverse/) and [Viper's Web Design - Facebook](https://www.facebook.com/viperswebdesign)
+- Please 'Like' my Facebook pages
+  - [Feedverse.net - Facebook](https://www.facebook.com/feedverse/)
+  - [Viper's Web Design - Facebook](https://www.facebook.com/viperswebdesign)
 - Please follow my business Twitter account at [Viper's Web Design - Twitter](https://twitter.com/viperswebdesign)
-- Join my [Discord](https://discord.gg/dXvNqP2e4w) and agree to the Rules & Regulations, then select the Feedverse icon
+- Join my [Discord](https://discord.gg/dXvNqP2e4w)
+  - Step 1: Agree to the `#rules-and-regulations` channel
+  - Step 2: Select the Feedverse icon in the `#select-your-roles` channel
+
+#### Legend
+| Finished | Enhance | Todo |
+|-|-|-|
+| :heavy_check_mark: | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> |
 
 ## Checklist
 ### Authentication
-- [x] Register / Activate
-- [x] Sign In / Sign Out
-- [x] Reset Password
+- :heavy_check_mark: Register / Account Activation
+- :heavy_check_mark: Sign In / Sign Out
+- :heavy_check_mark: Reset Password
 - [ ] 2FA
 
 ### Newsfeed
+- :heavy_check_mark: 1-click Birthday wish
+- :heavy_check_mark: Pending requests
+  - New friends
+  - Accept someone's "Feedverse official" request if you're dating them
 - [ ] Show when someone unfriends you
 
 ### Profile
+- :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
 - "About" section
-  - Geneology tagging
-
-### Messages
-- Private message system (and notifications)
-
-### Family
-- Family posts, news and event planning
-- The geneology tree
-
-### Settings
-- "Profile" / "Profile & Tagging" tab
-  - Limit who can post on your wall
-- .... need more ideas
-
-### General
-- Proper error messages if queries fail
-- User search / autocomplete
-- Image upload where necessary
-  - Can't work on this until I get S3 set up
-- Feed infinate scroll
-- Edit / Delete / Report status updates and comments
-- Allow images to be uploaded --- need to get AWS S3
-- Premium subscription (subscribers will be ad-free) **#### Fees Subject to Change ####**
-  - If you sign up within the first 60 days of launch and subscribe before the site is ~2 months old: US$1/month
-  - If you sign up within the first 60 days of launch and subscribe after the site is 2 months and before 3 months old: US$2.50/month
-  - If you sign up after the site is 2 months and and subscribe within the first 30 days of registration: US$2.50/month
-  - If you sign up after the site is 2 months old and wait over a month to subscribe: US$5/month
-- Create phone apps for Android and iOS
-
-### Admin Controls
-- Everything in one convenient place for admins and moderators
-
-## Enhance
-### Profile
-- Update the rest of the "About" section
-  - Edit current city
-  - Geneology tagging
-- Privacy
-
-### Public
-- Filter form
-
-### Post
-- Mark comments as "seen" when you are reading a specific post thead
-
-### Stats
-- Share button
-
-### General
-- Responsiveness
-
-## Finished
-### Authentication
-- Register
-  - activate
-- Sign In
-- Reset password process
-
-### Newsfeed
-- Birthday;
-  - Shows friends when it is their birthday
-  - 1-click wish friends a Happy Birthday (need to rework, currently only works on large screens)
-- Pending requests
-  - New friends
-  - Accept someone's "Feedverse official" request if you're dating them
-
-### Profile
-- Can request, cancel request, and block people
-- "About" Section
-  - Update bio
-  - select hometown
-  - update both 'religious' and 'political' views
-  - Can tag your partner / spouse, have to be friends first
-- Shows list of friends
+  - :heavy_check_mark: Bio
+  - :heavy_check_mark: Basic Information (Gender, Religious & Political Views)
+  - :heavy_check_mark: Set Hometown
+  - [ ] Edit current city
+  - [ ] Geneology tagging
+- [x] Privacy
+- :heavy_check_mark: Friends List
 
 ### Public
 - Define filters
-  - shows your friend's PUBLIC posts in the "Public" feed
-- "Reverse Filter" (currently admin, will also be subscriber only)
+  - :heavy_check_mark: Age
+  - :heavy_check_mark: Relationship status
+  - :heavy_check_mark: Gender
+  - [ ] Other suggestions
+  - *_shows your friend's PUBLIC posts in the "Public" feed_
+- [x] "Reverse Filter" (currently admin, will also be subscriber only)
   - How the reverse filter will work, say you set your age preference between 22 - 31. Accounts between those ages will show for you, while everyone from 18 - 125 years old can find you, if you are in their preferred age range... like a standard filter form. IF you are a subscriber and have this enabled (which will be by default), accounts between those ages that you defined can only see you if you are in their age range.
 
 ### Post
-- Marks wall post and any reactions as "seen" when coming to this page
+- Marks the following as "seen" when reading the single post
+  - :heavy_check_mark: Received wallposts
+  - :heavy_check_mark: Received reactions
+  - [ ] Received comments
+
+### Messages
+- [ ] Private message system (& notifications)
+
+### Family
+- [ ] Family posts, news and event planning
+- [ ] The geneology tree
 
 ### Profile Views
-- Shows you who've visited your profile (needs to change the layout)
+- :heavy_check_mark: Shows you who've visited your profile (needs to change the layout)
   - If viewer is invisible (currently admin, eventually subscribers), they won't show up if they visit
   - Will show "new" on the first load of the page, a simple refresh will mark them as old
 
 ### Stats
-- Shows how many statuses wrote
-- Shows wall posts you wrote and recieved
-- Shows how many likes you gave and received
-- Shows how many comments you've written and gotten
+- :heavy_check_mark: Shows how many statuses wrote
+- :heavy_check_mark: Shows wall posts you wrote and recieved
+- :heavy_check_mark: Shows how many likes you gave and received
+- :heavy_check_mark: Shows how many comments you've written and gotten
+- [ ] Shows how many shares you've made and how many posts were shared
 
 ### Settings
 ##### (Kind of following Facebook's flow)
-- Deep linked tabs to become shareable if you need to show were a setting is located
+- :heavy_check_mark: Deep linked tabs to become shareable if you need to show were a setting is located
 - "General" tab
-  - Change name
+  - :heavy_check_mark: Change name
 - "Security & Login" tab
-  - Change Password
+  - :heavy_check_mark: Change Password
 - "Privacy" tab
-  - Enable / Disable stealth - won't show up in profile views (currently admin only, soon will be subscriber only)
+  - :heavy_check_mark: Enable / Disable stealth - won't show up in profile views (currently admin only, soon will be subscriber only)
+- "Profile" / "Profile & Tagging" tab
+  - [ ] Limit who can post on your wall
 - "Blocking" tab
-  - Can unblock people
+  - :heavy_check_mark: Can unblock people
 
 ### General
-- Ads
-- Time localization
-- Post statuses / Post to another user's wall
-- "Friend Request" system operational (add, remove, cancel, block, unblock)
-  - Finished "block" logic
+- [x] Responsiveness
+- :heavy_check_mark: Ads (subscribers will be ad-free)
+- :heavy_check_mark: Time localization
+- :heavy_check_mark: Post statuses / Post to another user's wall
+- :heavy_check_mark: "Friend Request" system operational (add, remove, cancel, block, unblock)
 - Notifications
   - Get notified when someone;
-  - writes on your wall,
-  - comments,
-  - likes
-- Can 'star' people's statuses
-- Able to comment on statuses
-  - if comment textarea is empty, "comment" button is disabled to prevent submitting without text
-- Can see which friends are online on the right side
-- Finished notify status poster about a new like- post status comment
-- Legal pages, gotta be transparent
+    - :heavy_check_mark: writes on your wall,
+    - :heavy_check_mark: comments,
+    - :heavy_check_mark: likes
+    - [ ] Sends you a message
+- :heavy_check_mark: Can 'star' people's statuses
+- :heavy_check_mark: Able to comment on statuses
+- :heavy_check_mark: Can see which friends are online on the right side
+- :heavy_check_mark: Finished notify status poster about a new like- post status comment
+- :heavy_check_mark: Legal pages, gotta be transparent
   - [Privacy Policy](https://www.feedverse.net/privacy-policy)
   - [Terms of Use](https://www.feedverse.net/terms-of-use)
+- [ ] Proper error messages if queries fail
+- [ ] User search / autocomplete
+- [ ] Feed infinate scroll
+- [ ] Edit / Delete / Report status updates and comments
+- [ ] Premium subscription (subscribers will be ad-free) **#### Fees Subject to Change ####**
+  - If you sign up within the first 60 days of launch and subscribe before the site is ~2 months old: US$1/month
+  - If you sign up within the first 60 days of launch and subscribe after the site is 2 months and before 3 months old: US$2.50/month
+  - If you sign up after the site is 2 months and and subscribe within the first 30 days of registration: US$2.50/month
+  - If you sign up after the site is 2 months old and wait over a month to subscribe: US$5/month
+- [ ] Image upload where necessary
+  - Can't work on this until I get S3 set up
+- [ ] Create phone apps for Android and iOS
 
-## Addons
-### Post
+### Admin Controls
+- [ ] Everything
+
+### Addons
+#### Post
 - Mentions (status/wallposts ... maybe comments) ... and notifications
 - Hashtag 
 
 #### Business / Like / Fan pages
 #### Group pages
+
 
 -----------------------
 ## Resources

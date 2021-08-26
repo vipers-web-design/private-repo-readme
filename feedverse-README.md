@@ -196,4 +196,4 @@ If you want to know when I launch;
 
 ## Credits
 - All my friends - Thank you for being awesome and believing in me.
-- Thank you to both [@Ravavyr](https://github.com/Ravavyr) for being a soundboard.
+- Thank you to [@Ravavyr](https://github.com/Ravavyr) for being a soundboard.

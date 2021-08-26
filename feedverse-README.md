@@ -14,6 +14,8 @@
 - [General](#general)
 - [Admin Controls](#admin-controls)
 - [Addons](#addons)
+- [Resources](#resources)
+- [Credits](#credits)
 
 ## Summary
 [feedverse.net Techology Profile - Builtwith.com](https://builtwith.com/feedverse.net) - Show off the technology I am using to create Feedverse.
@@ -132,6 +134,7 @@ If you want to know when I launch;
 - "General" tab
   - :heavy_check_mark: Change name
 - "Security & Login" tab
+  - :pencil: Change email address
   - :heavy_check_mark: Change Password
 - "Privacy" tab
   - :heavy_check_mark: Enable / Disable stealth - won't show up in profile views (currently admin only, soon will be subscriber only)

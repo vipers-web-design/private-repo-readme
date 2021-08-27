@@ -110,7 +110,7 @@ If you want to know when I launch;
   - :pencil: Received comments
 
 ### Messages
-- :pencil: Private message system (& notifications)
+- :pencil: Private message system
 
 ### Family
 - :pencil: Family posts, news and event planning
@@ -164,13 +164,20 @@ If you want to know when I launch;
   - [Terms of Use](https://www.feedverse.net/terms-of-use)
 - :pencil: Proper error messages if queries fail
 - :pencil: User search / autocomplete
-- :pencil: Feed infinate scroll
+- :pencil: Add infinate scroll to every feed
 - :pencil: Edit / Delete / Report status updates and comments
-- :pencil: Premium subscription (subscribers will be ad-free) **#### Fees Subject to Change ####**
-  - If you sign up within the first 60 days of launch and subscribe before the site is ~2 months old: US$1/month
-  - If you sign up within the first 60 days of launch and subscribe after the site is 2 months and before 3 months old: US$2.50/month
-  - If you sign up after the site is 2 months and and subscribe within the first 30 days of registration: US$2.50/month
-  - If you sign up after the site is 2 months old and wait over a month to subscribe: US$5/month
+- :pencil: Premium subscription
+  - No ads
+    - *Request: I ask that if you are not subscribing, please disable your AdBlocker for Feedverse. I will try to make it so they aren't everywhere, or slowing down the site.
+  - US$1.00 / month:
+    - If you sign up within the first 60 days of launch and subscribe before the site is ~2 months old
+  - US$2.50 / month:
+    - If you sign up within the first 60 days of launch and subscribe after the site is 2 months and before 3 months old
+    - If you sign up after the site is 2 months and and subscribe within the first 30 days of registration
+  - US$5.00 / month:
+    - If you sign up after the site is 2 months old and wait over a month to subscribe
+  - *Notice: If you subscribe, but need to cancel for whatever reason then resubscribe at a later date you might be paying more.
+  - *Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advanced. And will also make an announcement on social media.
 - :pencil: Image upload where necessary
   - Can't work on this until I get S3 set up
 - :pencil: Create phone apps for Android and iOS

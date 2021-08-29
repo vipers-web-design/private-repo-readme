@@ -45,7 +45,7 @@ If you want to know when I launch;
   <img src="https://user-images.githubusercontent.com/8532498/130799664-337a0bc5-639d-45f4-8152-a01f7142ceca.png">
 </a>
 
-
+## Checklist
 #### Legend
 <table>
   <thead>
@@ -64,7 +64,6 @@ If you want to know when I launch;
   </tbody>
 </table>
 
-## Checklist
 ### Authentication
 - :heavy_check_mark: Register / Account Activation
 - :heavy_check_mark: Sign In / Sign Out

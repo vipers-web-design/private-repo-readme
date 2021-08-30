@@ -19,7 +19,7 @@
 - [Credits](#credits)
 
 ## Summary
-[feedverse.net Techology Profile - Builtwith.com](https://builtwith.com/feedverse.net) - Show off the technology I am using to create Feedverse.
+<a href="https://builtwith.com/feedverse.net" target="_blank">feedverse.net Techology Profile - Builtwith.com</a> - Show off the technology I am using to create Feedverse.
 
 #### My goals:
 > 1) Privacy

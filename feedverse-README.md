@@ -1,5 +1,5 @@
 # feedverse.net
-## Table of Contents
+## Table of Contents (based on page)
 
 - [Authentication](#authentication)
 - [Newsfeed](#newsfeed)
@@ -142,6 +142,9 @@ If you want to know when I launch;
 - "Blocking" tab
   - :heavy_check_mark: Can unblock people
 
+### Subscription
+- :pencil: The entire page
+
 ### General
 - :white_check_mark: Responsiveness
 - :heavy_check_mark: Ads (subscribers will be ad-free)
@@ -159,10 +162,11 @@ If you want to know when I launch;
 - :heavy_check_mark: Can see which friends are online on the right side
 - :heavy_check_mark: Finished notify status poster about a new like- post status comment
 - :heavy_check_mark: Legal pages, gotta be transparent
-  - [Privacy Policy](https://www.feedverse.net/privacy-policy)
-  - [Terms of Use](https://www.feedverse.net/terms-of-use)
+  - <a href="https://www.feedverse.net/privacy-policy" target="_blank">Privacy Policy</a>
+  - <a href="https://www.feedverse.net/terms-of-use" target="_blank">Terms of Use</a>
 - :pencil: Proper error messages if queries fail
 - :pencil: User search / autocomplete
+- :pencil: Collapsable comments on posts
 - :pencil: Add infinate scroll to every feed
 - :pencil: Edit / Delete / Report status updates and comments
 - :pencil: Premium subscription
@@ -195,11 +199,11 @@ If you want to know when I launch;
 
 -----------------------
 ## Resources
-- [AWS SDK for PHP](https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/welcome.html) - To upload images to Amazon S3
-- [FontAwesome](https://fontawesome.com/) - For all the cool icons
-- [MDBootstrap](https://mdbootstrap.com/) - The quick layout, basic responsiveness, and some functionality.
-- [PHPMailer](https://github.com/PHPMailer/PHPMailer) - What makes sending emails possible.
+- <a href="https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/welcome.html" target="_blank">AWS SDK for PHP</a> - To upload images to Amazon S3
+- <a href="https://fontawesome.com/" target="_blank">FontAwesome</a> - For all the cool icons
+- <a href="https://mdbootstrap.com/" target="_blank">MDBootstrap</a> - The quick layout, basic responsiveness, and some functionality.
+- <a href="https://github.com/PHPMailer/PHPMailer" target="_blank">PHPMailer</a> - What makes sending emails possible.
 
 ## Credits
 - All my friends - Thank you for being awesome and believing in me.
-- Thank you to [@Ravavyr](https://github.com/Ravavyr) for being a soundboard.
+- Thank you to <a href="https://github.com/Ravavyr" target="_blank">@Ravavyr</a> for being a soundboard.

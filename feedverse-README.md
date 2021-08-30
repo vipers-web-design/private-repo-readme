@@ -11,6 +11,7 @@
 - [Stats](#stats)
 - [Family](#family)
 - [Settings](#settings)
+- [Subscription](#subscription)
 - [General](#general)
 - [Admin Controls](#admin-controls)
 - [Addons](#addons)

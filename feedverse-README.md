@@ -36,9 +36,9 @@ I've created a Donation button to seek help with the costs,\
 \
 If you want to know when I launch;
 - Please 'Like' my Facebook pages
-  - [Feedverse.net - Facebook](https://www.facebook.com/feedverse/)
-  - [Viper's Web Design - Facebook](https://www.facebook.com/viperswebdesign)
-- Please follow my business Twitter account at [Viper's Web Design - Twitter](https://twitter.com/viperswebdesign)
+  - <a href="https://www.facebook.com/feedverse/" target="_blank">Feedverse.net - Facebook</a>
+  - <a href="https://www.facebook.com/viperswebdesign" target="_blank">Viper's Web Design - Facebook</a>
+- Please follow my business Twitter account at <a href="https://twitter.com/viperswebdesign" target="_blank">Viper's Web Design - Twitter</a>
 - Join my Discord
   - Step 1: Agree to the `#rules-and-regulations` channel
   - Step 2: Select the Feedverse icon in the `#select-your-roles` channel

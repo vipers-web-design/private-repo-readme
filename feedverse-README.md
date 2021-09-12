@@ -179,6 +179,7 @@ If you want to know when I launch;
   - :white_check_mark: "Reverse Filter" (Public > Filter form)
   - :pencil: Stealth setting (Settings > Privacy Tab)
   - :heavy_check_mark: Ad-free (General)
+  - ... and more, TBD
 
 ### Admin Controls
 - :pencil: Everything

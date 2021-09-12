@@ -178,7 +178,7 @@ If you want to know when I launch;
   - :pencil: Location _AND_ [you can choose location _AND_ radius] (Public > Filter form)
   - :white_check_mark: "Reverse Filter" (Public > Filter form)
   - :pencil: Stealth setting (Settings > Privacy Tab)
-  - :heavy_check_mark: Ad-free (General)
+  - :pencil: Ad-free (General)
   - ... and more, TBD
 
 ### Admin Controls

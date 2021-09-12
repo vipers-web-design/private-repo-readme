@@ -11,8 +11,8 @@
 - [Stats](#stats)
 - [Family](#family)
 - [Settings](#settings)
-- [Subscription](#subscription)
 - [General](#general)
+- [Subscription](#subscription)
 - [Admin Controls](#admin-controls)
 - [Addons](#addons)
 - [Resources](#resources)
@@ -96,12 +96,7 @@ If you want to know when I launch;
   - :heavy_check_mark: Relationship status
   - :heavy_check_mark: Gender
   - :pencil: Location
-    - Subscribers will be able to select a locality _AND_ radius distance, basic members will only be able to select a locality _OR_ radius.
-  - :pencil: Ethnicity (?)
-    - Subscribers only if I include this filter, since I let users can set their ethnicity ... why not include a filter for it?
   - *_shows your friend's PUBLIC posts in the "Public" feed_
-- :white_check_mark: "Reverse Filter" (currently admin, will also be subscriber only)
-  - How the reverse filter will work, say you set your age preference between 22 - 31. Accounts between those ages will show for you, while everyone from 18 - 125 years old can find you, if you are in their preferred age range... like a standard filter form. IF you are a subscriber and have this enabled (which will be by default), accounts between those ages that you defined can only see you if you are in their age range.
 
 ### Post
 - Marks the following as "seen" when reading the single post
@@ -117,9 +112,7 @@ If you want to know when I launch;
 - :pencil: The geneology tree
 
 ### Profile Views
-- :heavy_check_mark: Shows you who've visited your profile (needs to change the layout)
-  - If viewer is invisible (currently admin, eventually subscribers), they won't show up if they visit
-  - Will show "new" on the first load of the page, a simple refresh will mark them as old
+- :white_check_mark: Lists the people who've visited your profile (needs to change the layout)
 
 ### Stats
 - :heavy_check_mark: Shows how many statuses wrote
@@ -137,18 +130,14 @@ If you want to know when I launch;
   - :pencil: Change email address
   - :heavy_check_mark: Change Password
 - "Privacy" tab
-  - :heavy_check_mark: Enable / Disable stealth - won't show up in profile views (currently admin only, soon will be subscriber only)
 - "Profile" / "Profile & Tagging" tab
   - :pencil: Limit who can post on your wall
 - "Blocking" tab
   - :heavy_check_mark: Can unblock people
 
-### Subscription
-- :pencil: The entire page
-
 ### General
 - :white_check_mark: Responsiveness
-- :heavy_check_mark: Ads (subscribers will be ad-free)
+- :heavy_check_mark: Ads
 - :heavy_check_mark: Time localization
 - :heavy_check_mark: Post statuses / Post to another user's wall
 - :heavy_check_mark: "Friend Request" system operational (add, remove, cancel, block, unblock)
@@ -163,15 +152,12 @@ If you want to know when I launch;
 - :heavy_check_mark: Can see which friends are online on the right side
 - :heavy_check_mark: Finished notify status poster about a new like- post status comment
 - :heavy_check_mark: Legal pages, gotta be transparent
-- :pencil: Collapse comments on posts if there are more than 2 comments
+- :pencil: Collapse comments on posts onload if there are more than 2 comments
 - :pencil: Proper error messages if queries fail
 - :pencil: User search / autocomplete
-- :pencil: Collapsable comments on posts
 - :pencil: Add infinate scroll to every feed
 - :pencil: Edit / Delete / Report status updates and comments
 - :pencil: Premium subscription
-  - No ads
-    - *Request: I ask that if you are not subscribing, please disable your AdBlocker for Feedverse. I will try to make it so they aren't everywhere, or slowing down the site.
   - US$1.00 / month:
     - If you sign up within the first 60 days of launch and subscribe before the site is ~2 months old
   - US$2.50 / month:
@@ -184,6 +170,15 @@ If you want to know when I launch;
 - :pencil: Image upload where necessary
   - Can't work on this until I get S3 set up
 - :pencil: Create phone apps for Android and iOS
+
+### Subscription
+- :pencil: The entire page
+- Perks:
+  - :pencil: Filter to preferred ethnicity (Public > Filter form)
+  - :pencil: Location _AND_ [you can choose location _AND_ radius] (Public > Filter form)
+  - :white_check_mark: "Reverse Filter" (Public > Filter form)
+  - :pencil: Stealth setting (Settings > Privacy Tab)
+  - :heavy_check_mark: Ad-free (General)
 
 ### Admin Controls
 - :pencil: Everything

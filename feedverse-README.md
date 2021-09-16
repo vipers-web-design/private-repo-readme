@@ -157,7 +157,13 @@ If you want to know when I launch;
 - :pencil: User search / autocomplete
 - :pencil: Add infinate scroll to every feed
 - :pencil: Edit / Delete / Report status updates and comments
-- :pencil: Premium subscription
+- :pencil: Image upload where necessary
+  - Can't work on this until I get S3 set up
+- :pencil: Create phone apps for Android and iOS
+
+### Subscription
+- :pencil: The entire page
+- :pencil: Rates:
   - US$1.00 / month:
     - If you sign up within the first 60 days of launch and subscribe before the site is ~2 months old
   - US$2.50 / month:
@@ -167,12 +173,6 @@ If you want to know when I launch;
     - If you sign up after the site is 2 months old and wait over a month to subscribe
   - *Notice: If you subscribe, but need to cancel for whatever reason then resubscribe at a later date you might be paying more.
   - *Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advanced. And will also make an announcement on social media.
-- :pencil: Image upload where necessary
-  - Can't work on this until I get S3 set up
-- :pencil: Create phone apps for Android and iOS
-
-### Subscription
-- :pencil: The entire page
 - Perks:
   - :pencil: Filter to preferred ethnicity (Public > Filter form)
   - :pencil: Location _AND_ [you can choose location _AND_ radius] (Public > Filter form)

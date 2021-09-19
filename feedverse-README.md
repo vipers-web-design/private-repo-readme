@@ -148,7 +148,7 @@ If you want to know when I launch;
     - :heavy_check_mark: likes
     - :pencil: Sends you a message
 - :heavy_check_mark: Can 'star' people's statuses
-- :white_check_mark: Able to comment on statuses
+- :heavy_check_mark: Able to comment on statuses
 - :heavy_check_mark: Can see which friends are online on the right side
 - :heavy_check_mark: Finished notify status poster about a new like- post status comment
 - :heavy_check_mark: Legal pages, gotta be transparent

@@ -197,8 +197,9 @@ If you want to know when I launch;
 ## Resources
 - <a href="https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/welcome.html" target="_blank">AWS SDK for PHP</a> - To upload images to Amazon S3
 - <a href="https://fontawesome.com/" target="_blank">FontAwesome</a> - For all the cool icons
-- <a href="https://mdbootstrap.com/" target="_blank">MDBootstrap</a> - The quick layout, basic responsiveness, and some functionality.
-- <a href="https://github.com/PHPMailer/PHPMailer" target="_blank">PHPMailer</a> - What makes sending emails possible.
+- <a href="https://mdbootstrap.com/" target="_blank">MDBootstrap</a> - The quick layout, basic responsiveness, and some functionality
+- <a href="https://github.com/PHPMailer/PHPMailer" target="_blank">PHPMailer</a> - What makes sending emails possible
+- <a href="https://github.com/dr5hn/countries-states-cities-database" target="_blank">dr5hn &#8725; countries-states-cities-database</a> - The world database I am using
 
 ## Credits
 - All my friends - Thank you for being awesome and believing in me.

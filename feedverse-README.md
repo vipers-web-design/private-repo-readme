@@ -105,7 +105,7 @@ If you want to know when I launch;
   - :pencil: Received comments
 
 ### Messages
-- :pencil: Private message system
+- :white_check_mark: Private message system
 
 ### Family
 - :pencil: Family posts, news and event planning

@@ -81,6 +81,7 @@ If you want to know when I launch;
 ### Profile
 - :white_check_mark: Privacy
 - :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
+- :white_check_mark: Initialize/continue conversation from profile
 - "About" section
   - :heavy_check_mark: Bio
   - :heavy_check_mark: Basic Information (Gender, Religious & Political Views)

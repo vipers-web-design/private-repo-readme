@@ -76,7 +76,7 @@ If you want to know when I launch;
 - :heavy_check_mark: Pending requests
   - New friends
   - Accept someone's "Feedverse official" request if you're dating them
-- :pencil: Show when someone unfriends you
+- :white_check_mark: Show when someone unfriends you (Note: It works, I just to origanize it a little better)
 
 ### Profile
 - :white_check_mark: Privacy

@@ -38,7 +38,7 @@ Here is my ko-fi page,\
 <a href="https://ko-fi.com/viperswebdesign" target="_blank">
    <img src="https://ko-fi.com/img/Kofi_Logo_Blue.svg" width="503">
 </a>
-/
+\
 If you want to know when I launch;
 - Please 'Like' my Facebook pages
   - <a href="https://www.facebook.com/feedverse/" target="_blank">Feedverse.net - Facebook</a>

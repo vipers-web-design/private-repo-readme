@@ -29,11 +29,16 @@
 ![image](https://user-images.githubusercontent.com/8532498/128605918-c1d713e7-cca4-4bc9-86f5-aff3a6bc7827.png)
 
 Right now the domain rests on a Shared Hosting server, with my business website a couple of sites I made for friends. This plan will not support the traffic for a site of this genre.\
-I've created a Donation button to seek help with the costs,\
+I've created a Donation button on PayPal to seek help with the costs,\
 <a href="https://www.paypal.com/donate?hosted_button_id=MSPMGLUUTWJ6L" target="_blank">
   <img src="https://user-images.githubusercontent.com/8532498/130795642-30b8328d-011f-478a-b714-3a712008f511.jpg">
 </a>
 \
+Here is my ko-fi page,\
+<a href="https://ko-fi.com/viperswebdesign" target="_blank">
+   <img src="https://ko-fi.com/img/Kofi_Logo_Blue.svg" width="503">
+</a>
+/
 If you want to know when I launch;
 - Please 'Like' my Facebook pages
   - <a href="https://www.facebook.com/feedverse/" target="_blank">Feedverse.net - Facebook</a>

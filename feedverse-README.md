@@ -59,6 +59,7 @@ If you want to know when I launch;
       <th>Finished</th>
       <th>Enhance</th>
       <th>Todo</th>
+      <th>Approx % Done</th>
     </tr>
   </thead>
   <tbody>
@@ -66,6 +67,7 @@ If you want to know when I launch;
       <td>:heavy_check_mark:</td>
       <td>:white_check_mark:</td>
       <td>:pencil:</td>
+      <td>32/49 (~65.3%)</td>
     </tr>
   </tbody>
 </table>

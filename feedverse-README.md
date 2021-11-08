@@ -112,6 +112,7 @@ If you want to know when I launch;
 
 ### Messages
 - :white_check_mark: Private message system
+- :pencil: Group messages
 
 ### Family
 - :pencil: Family posts, news and event planning

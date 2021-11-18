@@ -113,8 +113,11 @@ If you want to know when I launch;
   - :pencil: Received comments
 
 ### Messages
-- :white_check_mark: Private message system
-- :pencil: Group messages
+- Private message system
+  - :heavy_check_mark: Creates new thread
+  - :white_check_mark: Notifies when you have unread messages
+  - :pencil: Ajax fetch
+  - :pencil: Ajax reply
 
 ### Family
 - :pencil: Family posts, news and event planning

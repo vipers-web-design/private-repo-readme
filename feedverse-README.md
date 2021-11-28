@@ -130,7 +130,8 @@ If you want to know when I launch;
 - :heavy_check_mark: Shows wall posts you wrote and recieved
 - :heavy_check_mark: Shows how many likes you gave and received
 - :heavy_check_mark: Shows how many comments you've written and gotten
-- :pencil: Shows how many shares you've made and how many posts were shared
+- :white_check_mark: Shows how many shares you've made and how many posts were shared
+- :heavy_check_mark: Shows how many conversations you've started & received, and how many messages you've written
 
 ### Settings
 ##### (Kind of following Facebook's flow)

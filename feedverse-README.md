@@ -165,7 +165,7 @@ If you want to know when I launch;
 - :heavy_check_mark: Finished notify status poster about a new like- post status comment
 - :heavy_check_mark: Legal pages, gotta be transparent
 - :heavy_check_mark: Collapse comments on posts onload if there are more than 2 comments
-- :pencil: When someone turns 18, update their age filters automatically
+- :white_check_mark: When someone turns 18, update their age filters automatically
 - :pencil: Proper error messages if queries fail
 - :pencil: User search / autocomplete
 - :pencil: Add infinate scroll to every feed

@@ -114,7 +114,7 @@ If you want to know when I launch;
 - Private message system
   - :heavy_check_mark: Creates new thread
   - :white_check_mark: Notifies when you have unread messages
-  - :pencil: Displays if & when your message gets read
+  - :heavy_check_mark: Displays if & when your message gets read
   - :pencil: Ajax fetch
   - :pencil: Ajax reply
 

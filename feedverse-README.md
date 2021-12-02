@@ -158,7 +158,7 @@ If you want to know when I launch;
     - :heavy_check_mark: writes on your wall,
     - :heavy_check_mark: comments,
     - :heavy_check_mark: likes
-    - :pencil: Sends you a message
+    - :heavy_check_mark: Sends you a message
 - :heavy_check_mark: Can 'star' people's statuses
 - :heavy_check_mark: Able to comment on statuses
 - :heavy_check_mark: Can see which friends are online on the right side

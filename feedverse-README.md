@@ -34,10 +34,6 @@ I've created a Donation button on PayPal to seek help with the costs,\
   <img src="https://user-images.githubusercontent.com/8532498/130795642-30b8328d-011f-478a-b714-3a712008f511.jpg">
 </a>
 \
-Here is my ko-fi page,\
-<a href="https://ko-fi.com/viperswebdesign" target="_blank">
-   <img src="https://ko-fi.com/img/Kofi_Logo_Blue.svg" width="503">
-</a>
 \
 If you want to know when I launch;
 - Please 'Like' my Facebook pages

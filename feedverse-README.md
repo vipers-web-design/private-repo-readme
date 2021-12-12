@@ -43,7 +43,7 @@ If you want to know when I launch;
 - Join my Discord
   - Step 1: Agree to the `#rules-and-regulations` channel
   - Step 2: Select the Feedverse icon in the `#select-your-roles` channel
-<a href="https://discord.gg/sWkr84WmWj" target="_blank">
+<a href="https://discord.gg/fAUtdmdrQA" target="_blank">
   <img src="https://user-images.githubusercontent.com/8532498/130799664-337a0bc5-639d-45f4-8152-a01f7142ceca.png">
 </a>
 
@@ -161,7 +161,7 @@ If you want to know when I launch;
 - :heavy_check_mark: Finished notify status poster about a new like- post status comment
 - :heavy_check_mark: Legal pages, gotta be transparent
 - :heavy_check_mark: Collapse comments on posts onload if there are more than 2 comments
-- :white_check_mark: When someone turns 18, update their age filters automatically
+- :heavy_check_mark: When someone turns 18, update their age filters automatically
 - :pencil: Proper error messages if queries fail
 - :pencil: User search / autocomplete
 - :pencil: Add infinate scroll to every feed

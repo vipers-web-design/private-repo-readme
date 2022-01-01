@@ -77,7 +77,7 @@ If you want to know when I launch;
 - :heavy_check_mark: Pending requests
   - New friends
   - Accept someone's "Feedverse official" request if you're dating them
-- :white_check_mark: Show when someone unfriends you (Note: It works, I just to origanize it a little better)
+- :heavy_check_mark: Show when someone unfriends you (Note: It works, I just to origanize it a little better)
 
 ### Profile
 - :white_check_mark: Privacy
@@ -120,7 +120,7 @@ If you want to know when I launch;
 - :pencil: The geneology tree
 
 ### Profile Views
-- :white_check_mark: Lists the people who've visited your profile (needs to change the layout)
+- :heavy_check_mark: Lists the people who've visited your profile (needs to change the layout)
 
 ### Stats
 - :heavy_check_mark: Shows how many statuses wrote
@@ -152,9 +152,9 @@ If you want to know when I launch;
 - :heavy_check_mark: "Friend Request" system operational (add, remove, cancel, block, unblock)
 - Notifications
   - Get notified when someone;
-    - :pencil: writes on your wall,
-    - :pencil: comments,
-    - :white_check_mark: likes
+    - :heavy_check_mark: writes on your wall,
+    - :heavy_check_mark: comments,
+    - :heavy_check_mark: likes
     - :heavy_check_mark: Sends you a message
 - :heavy_check_mark: Can 'star' people's statuses
 - :heavy_check_mark: Able to comment on statuses

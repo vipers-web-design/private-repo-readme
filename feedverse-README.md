@@ -89,7 +89,6 @@ If you want to know when I launch;
   - :white_check_mark: Change current address / city
   - :heavy_check_mark: Set Hometown
   - :pencil: Website and other links
-  - :pencil: Edit current city
   - :pencil: Geneology tagging
   - :pencil: Life Events (big days, birth, marriage, new kid, divorce, etc...)
 - :heavy_check_mark: Friends List

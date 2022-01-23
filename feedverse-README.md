@@ -116,7 +116,7 @@ If you want to know when I launch;
   - :pencil: Ajax reply
 
 ### Family
-- :pencil: Family posts, news and event planning
+- :white_check_mark: Family posts, news and event planning
 - :pencil: The geneology tree
 
 ### Profile Views

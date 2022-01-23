@@ -85,7 +85,7 @@ If you want to know when I launch;
 - :white_check_mark: Initialize/continue conversation from profile
 - "About" section
   - :heavy_check_mark: Bio
-  - :heavy_check_mark: Basic Information (Gender, Religious & Political Views)
+  - :heavy_check_mark: Basic Information (Cell Num, Gender, Religious & Political Views, etc)
   - :heavy_check_mark: Set Hometown
   - :pencil: Website and other links
   - :pencil: Edit current city

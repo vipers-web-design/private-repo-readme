@@ -40,12 +40,6 @@ If you want to know when I launch;
   - <a href="https://www.facebook.com/feedverse/" target="_blank">Feedverse.net - Facebook</a>
   - <a href="https://www.facebook.com/viperswebdesign" target="_blank">Viper's Web Design - Facebook</a>
 - Please follow my business Twitter account at <a href="https://twitter.com/viperswebdesign" target="_blank">Viper's Web Design - Twitter</a>
-- Join my Discord
-  - Step 1: Agree to the `#rules-and-regulations` channel
-  - Step 2: Select the Feedverse icon in the `#select-your-roles` channel
-<a href="https://discord.gg/fAUtdmdrQA" target="_blank">
-  <img src="https://user-images.githubusercontent.com/8532498/130799664-337a0bc5-639d-45f4-8152-a01f7142ceca.png">
-</a>
 
 ## Checklist
 #### Legend

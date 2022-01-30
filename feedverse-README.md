@@ -172,7 +172,7 @@ If you want to know when I launch;
 - :pencil: Create phone apps for Android and iOS
 
 ### Subscription
-- :pencil: The entire page
+- :white_check_mark: The entire page
 - :pencil: Rates:
   - US$1.00 / month:
     - If you sign up within the first 60 days of launch and subscribe before the site is ~2 months old

@@ -158,7 +158,7 @@ If you want to know when I launch;
 - :heavy_check_mark: Collapse comments on posts onload if there are more than 2 comments
 - :heavy_check_mark: When someone turns 18, update their age filters automatically
 - :pencil: Proper error messages if queries fail
-- :pencil: User search / autocomplete
+- :white_check_mark: User search / autocomplete
 - :pencil: Add infinate scroll to every feed
 - :pencil: Edit / Delete / Report status updates and comments
 - :pencil: Image upload where necessary

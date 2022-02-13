@@ -92,7 +92,7 @@ If you want to know when I launch;
   - :heavy_check_mark: Age
   - :heavy_check_mark: Relationship status
   - :heavy_check_mark: Gender
-  - :pencil: Location
+  - :white_check_mark: Location
   - *_shows your friend's PUBLIC posts in the "Public" feed_
 
 ### Post

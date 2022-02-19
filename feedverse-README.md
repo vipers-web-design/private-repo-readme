@@ -80,6 +80,7 @@ If you want to know when I launch;
 - "About" section
   - :heavy_check_mark: Bio
   - :heavy_check_mark: Basic Information (Cell Num, Gender, Religious & Political Views, etc)
+  - :white_check_mark: Set relationship status
   - :heavy_check_mark: Change current address / city
   - :heavy_check_mark: Set Hometown
   - :pencil: Website and other links

@@ -130,12 +130,14 @@ If you want to know when I launch;
 - :heavy_check_mark: Deep linked tabs to become shareable if you need to show were a setting is located
 - "General" tab
   - :heavy_check_mark: Change name
+  - :white_check_mark: Change email
 - "Security & Login" tab
   - :pencil: Change email address
   - :heavy_check_mark: Change Password
 - "Privacy" tab
+  - :heavy_check_mark: Limit who can send you messages
 - "Profile" / "Profile & Tagging" tab
-  - :pencil: Limit who can post on your wall
+  - :heavy_check_mark: Limit who can post on your wall
 - "Blocking" tab
   - :heavy_check_mark: Can unblock people
 

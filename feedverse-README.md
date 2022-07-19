@@ -79,6 +79,8 @@ If you want to know when I launch;
 - :white_check_mark: Initialize/continue conversation from profile
 - "About" section
   - :heavy_check_mark: Bio
+    - :white_check_mark: Set nickname
+    - :heavy_check_mark: Set / change pronouns
   - :heavy_check_mark: Basic Information (Cell Num, Gender, Religious & Political Views, etc)
   - :white_check_mark: Set relationship status
   - :heavy_check_mark: Change current address / city

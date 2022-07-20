@@ -87,7 +87,7 @@ If you want to know when I launch;
   - :heavy_check_mark: Set Hometown
   - :pencil: Website and other links
   - :pencil: Geneology tagging
-  - :pencil: Life Events (big days, birth, marriage, new kid, divorce, etc...)
+  - :white_check_mark: Life Events (big days, birth, marriage, new kid, divorce, etc...)
 - :heavy_check_mark: Friends List
 
 ### Public

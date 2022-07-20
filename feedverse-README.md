@@ -134,7 +134,6 @@ If you want to know when I launch;
   - :heavy_check_mark: Change name
   - :white_check_mark: Change email
 - "Security & Login" tab
-  - :pencil: Change email address
   - :heavy_check_mark: Change Password
 - "Privacy" tab
   - :heavy_check_mark: Limit who can send you messages

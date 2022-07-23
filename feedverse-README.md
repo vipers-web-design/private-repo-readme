@@ -79,13 +79,13 @@ If you want to know when I launch;
 - :white_check_mark: Initialize/continue conversation from profile
 - "About" section
   - :heavy_check_mark: Bio
-    - :white_check_mark: Set nickname
+    - :heavy_check_mark: Set nickname
     - :heavy_check_mark: Set / change pronouns
   - :heavy_check_mark: Basic Information (Cell Num, Gender, Religious & Political Views, etc)
   - :white_check_mark: Set relationship status
   - :heavy_check_mark: Change current address / city
   - :heavy_check_mark: Set Hometown
-  - :pencil: Website and other links
+  - :white_check_mark: Website and other links
   - :pencil: Geneology tagging
   - :white_check_mark: Life Events (big days, birth, marriage, new kid, divorce, etc...)
 - :heavy_check_mark: Friends List

@@ -81,6 +81,7 @@ If you want to know when I launch;
   - :heavy_check_mark: Bio
     - :heavy_check_mark: Set nickname
     - :heavy_check_mark: Set / change pronouns
+  - :heavy_check_mark: Favorite quotes
   - :heavy_check_mark: Basic Information (Cell Num, Gender, Religious & Political Views, etc)
   - :white_check_mark: Set relationship status
   - :heavy_check_mark: Change current address / city

@@ -90,6 +90,8 @@ If you want to know when I launch;
   - :pencil: Geneology tagging
   - :white_check_mark: Life Events (big days, birth, marriage, new kid, divorce, etc...)
 - :heavy_check_mark: Friends List
+- :pencil: Pictures uploads
+- :pencil: Video uploads
 
 ### Public
 - Define filters

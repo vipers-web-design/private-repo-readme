@@ -174,17 +174,11 @@ If you want to know when I launch;
 
 ### Subscription
 - :white_check_mark: The entire page
-- :pencil: Rates:
-  - US$1.00 / month:
-    - If you sign up within the first 60 days of launch and subscribe before the site is ~2 months old
-  - US$2.50 / month:
-    - If you sign up within the first 60 days of launch and subscribe after the site is 2 months and before 3 months old
-    - If you sign up after the site is 2 months and and subscribe within the first 30 days of registration
-  - US$5.00 / month:
-    - If you sign up after the site is 2 months old and wait over a month to subscribe
+- :pencil: Rates: TBD
   - *Notice: If you subscribe, but need to cancel for whatever reason then resubscribe at a later date you might be paying more.
   - *Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advanced. And will also make an announcement on social media.
 - Perks:
+  - :pencil: Ability to allow the user to design what their profile looks like, like MySpace (Profile > ?)
   - :pencil: Filter to preferred ethnicity (Public > Filter form)
   - :pencil: Location _AND_ [you can choose location _AND_ radius] (Public > Filter form)
   - :white_check_mark: "Reverse Filter" (Public > Filter form)

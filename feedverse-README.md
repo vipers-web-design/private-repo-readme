@@ -167,7 +167,16 @@ If you want to know when I launch;
 - :pencil: Proper error messages if queries fail
 - :white_check_mark: User search / autocomplete
 - :pencil: Add infinate scroll to every feed
-- :white_check_mark: Edit / Delete / Report status updates and comments
+- Post/status updates & comment actions
+   - POSTS / STATUS UPDATES
+     - :heavy_check_mark: Edit
+     - :heavy_check_mark: Delete
+     - :white_check_mark: Report
+     - :white_check_mark: Reshare/Retweet
+   - COMMENTS 
+     - :white_check_mark: Edit
+     - :white_check_mark: Delete
+     - :white_check_mark: Report
 - :pencil: Image upload where necessary
   - Can't work on this until I get S3 set up
 - :pencil: Create phone apps for Android and iOS

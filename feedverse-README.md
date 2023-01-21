@@ -163,7 +163,7 @@ If you want to know when I launch;
 - :heavy_check_mark: Finished notify status poster about a new like- post status comment
 - :heavy_check_mark: Legal pages, gotta be transparent
 - :heavy_check_mark: Collapse comments on posts onload if there are more than 2 comments
-- :heavy_check_mark: When someone turns 18, update their age filters automatically
+- :white_check_mark: When someone turns 18, update their age filters automatically
 - :pencil: Proper error messages if queries fail
 - :white_check_mark: User search / autocomplete
 - :heavy_check_mark: Add a "Load More" button to only the feeds
@@ -192,7 +192,7 @@ If you want to know when I launch;
   - :pencil: Location _AND_ [you can choose location _AND_ radius] (Public > Filter form)
   - :white_check_mark: "Reverse Filter" (Public > Filter form)
   - :pencil: Stealth setting (Settings > Privacy Tab)
-  - :pencil: Ad-free (General)
+  - :white_check_mark: Ad-free (General)
   - ... and more, TBD
 
 ### Admin Controls

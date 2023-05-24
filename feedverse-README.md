@@ -184,7 +184,6 @@ If you want to know when I launch;
 ### Subscription
 - :white_check_mark: The entire page
 - :heavy_check_mark: Rates: USD$6.95/month (???)
-  - *Notice: If you subscribe, but need to cancel for whatever reason then resubscribe at a later date you might be paying more.
   - *Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advanced. And will also make an announcement on social media.
 - Perks:
   - :pencil: Ability to allow the user to design what their profile looks like, like MySpace (Profile > ?)

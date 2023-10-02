@@ -172,7 +172,6 @@ If you want to know when I launch;
      - :heavy_check_mark: Edit
      - :heavy_check_mark: Delete
      - :white_check_mark: Report
-     - :heavy_check_mark: Reshare/Retweet
    - COMMENTS 
      - :white_check_mark: Edit
      - :white_check_mark: Delete

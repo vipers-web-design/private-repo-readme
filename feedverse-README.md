@@ -157,7 +157,7 @@ If you want to know when I launch;
     - :heavy_check_mark: comments,
     - :heavy_check_mark: likes
     - :heavy_check_mark: Sends you a message
-- :heavy_check_mark: Can 'star' people's statuses
+- :heavy_check_mark: Can 'like' people's statuses
 - :heavy_check_mark: Able to comment on statuses
 - :heavy_check_mark: Can see which friends are online on the right side
 - :heavy_check_mark: Finished notify status poster about a new like- post status comment
@@ -166,7 +166,7 @@ If you want to know when I launch;
 - :white_check_mark: When someone turns 18, update their age filters automatically
 - :pencil: Proper error messages if queries fail
 - :white_check_mark: User search / autocomplete
-- :heavy_check_mark: Add a "Load More" button to only the feeds
+- :white_check_mark: Add a "Load More" button to only the feeds
 - Post/status updates & comment actions
    - POSTS / STATUS UPDATES
      - :heavy_check_mark: Edit

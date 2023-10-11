@@ -173,8 +173,8 @@ If you want to know when I launch;
      - :heavy_check_mark: Delete
      - :white_check_mark: Report
    - COMMENTS 
-     - :white_check_mark: Edit
-     - :white_check_mark: Delete
+     - :heavy_check_mark: Edit
+     - :heavy_check_mark: Delete
      - :white_check_mark: Report
 - :pencil: Image upload where necessary
   - Can't work on this until I get S3 set up

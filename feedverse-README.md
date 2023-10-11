@@ -71,20 +71,20 @@ If you want to know when I launch;
 - Pending requests
   - :heavy_check_mark: New friends
   - :white_check_mark: Accept someone's "Feedverse official" request if you're dating them
-- :heavy_check_mark: Show when someone unfriends you (Note: It works, I just to origanize it a little better)
+- :heavy_check_mark: Show when someone unfriends you (Note: It works, I just to organize it a little better)
 
 ### Profile
 - :white_check_mark: Privacy
 - :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
-- :white_check_mark: Initialize/continue conversation from profile
+- :white_check_mark: Initialize/continue the conversation from profile
 - "About" section
   - :heavy_check_mark: Bio
     - :heavy_check_mark: Set nickname
-    - :heavy_check_mark: Set / change pronouns
+    - :heavy_check_mark: Set/change pronouns
   - :heavy_check_mark: Favorite quotes
   - :heavy_check_mark: Basic Information (Cell Num, Gender, Religious & Political Views, etc)
   - :white_check_mark: Set relationship status
-  - :heavy_check_mark: Change current address / city
+  - :heavy_check_mark: Change current address/city
   - :heavy_check_mark: Set Hometown
   - :heavy_check_mark: Website and other links
   - :pencil: Geneology tagging
@@ -103,7 +103,7 @@ If you want to know when I launch;
 
 ### Post
 - Marks the following as "seen" when reading the single post
-  - :heavy_check_mark: Received wallposts
+  - :heavy_check_mark: Received wall posts
   - :heavy_check_mark: Received reactions
   - :pencil: Received comments
 
@@ -117,22 +117,21 @@ If you want to know when I launch;
 
 ### Family
 - :white_check_mark: Family posts, news and event planning
-- :pencil: The geneology tree
+- :pencil: The genealogy tree
 
 ### Profile Views
 - :heavy_check_mark: Lists the people who've visited your profile (needs to change the layout)
 
 ### Stats
 - :heavy_check_mark: Shows how many statuses wrote
-- :heavy_check_mark: Shows wall posts you wrote and recieved
+- :heavy_check_mark: Shows wall posts you wrote and received
 - :heavy_check_mark: Shows how many likes you gave and received
 - :heavy_check_mark: Shows how many comments you've written and gotten
-- :white_check_mark: Shows how many shares you've made and how many posts were shared
 - :heavy_check_mark: Shows how many conversations you've started & received, and how many messages you've written
 
 ### Settings
 ##### (Kind of following Facebook's flow)
-- :heavy_check_mark: Deep linked tabs to become shareable if you need to show were a setting is located
+- :heavy_check_mark: Deep linked tabs to become shareable if you need to show where a setting is located
 - "General" tab
   - :heavy_check_mark: Change name
   - :white_check_mark: Change email
@@ -191,6 +190,7 @@ If you want to know when I launch;
   - :white_check_mark: "Reverse Filter" (Public > Filter form)
   - :pencil: Stealth setting (Settings > Privacy Tab)
   - :white_check_mark: Ad-free (General)
+  - :heavy_check_mark: Daily Login Bonus; 30% more Versebucks
   - ... and more, TBD
 
 ### Admin Controls
@@ -198,7 +198,7 @@ If you want to know when I launch;
 
 ### Addons
 #### Post
-- Mentions (status/wallposts ... maybe comments) ... and notifications
+- Mentions (status/wall posts ... maybe comments) ... and notifications
 - Hashtag 
 
 #### Business / Like / Fan pages

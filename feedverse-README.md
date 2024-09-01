@@ -18,8 +18,18 @@
 - [Resources](#resources)
 - [Credits](#credits)
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="#credits">Credits</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Summary
-<a href="https://builtwith.com/feedverse.net" target="_blank">feedverse.net Techology Profile - Builtwith.com</a> - Show off the technology I am using to create Feedverse.
+<a href="https://builtwith.com/feedverse.net" target="_blank">feedverse.net Technology Profile - Builtwith.com</a> - Show off the technology I am using to create Feedverse.
 
 #### My goals:
 > 1) Privacy
@@ -28,18 +38,11 @@
 
 ![image](https://user-images.githubusercontent.com/8532498/128605918-c1d713e7-cca4-4bc9-86f5-aff3a6bc7827.png)
 
-Right now the domain rests on a Shared Hosting server, with my business website a couple of sites I made for friends. This plan will not support the traffic for a site of this genre.\
+Right now the domain rests on a Shared Hosting server, with my business website and a couple of sites I made for friends. This plan will not support the traffic for a site of this genre.\
 I've created a Donation button on PayPal to seek help with the costs,\
 <a href="https://www.paypal.com/donate?hosted_button_id=MSPMGLUUTWJ6L" target="_blank">
   <img src="https://user-images.githubusercontent.com/8532498/130795642-30b8328d-011f-478a-b714-3a712008f511.jpg">
 </a>
-\
-\
-If you want to know when I launch;
-- Please 'Like' my Facebook pages
-  - <a href="https://www.facebook.com/feedverse/" target="_blank">Feedverse.net - Facebook</a>
-  - <a href="https://www.facebook.com/viperswebdesign" target="_blank">Viper's Web Design - Facebook</a>
-- Please follow my business Twitter account at <a href="https://twitter.com/viperswebdesign" target="_blank">Viper's Web Design - Twitter</a>
 
 ## Checklist
 #### Legend
@@ -71,12 +74,12 @@ If you want to know when I launch;
 - Pending requests
   - :heavy_check_mark: New friends
   - :white_check_mark: Accept someone's "Feedverse official" request if you're dating them
-- :heavy_check_mark: Show when someone unfriends you (Note: It works, I just to organize it a little better)
+- :heavy_check_mark: Show when someone unfriends you (Note: It works, I to organize it a little better)
 
 ### Profile
 - :white_check_mark: Privacy
 - :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
-- :white_check_mark: Initialize/continue the conversation from profile
+- :white_check_mark: Initialize/continue the conversation from the profile
 - "About" section
   - :heavy_check_mark: Bio
     - :heavy_check_mark: Set nickname
@@ -88,7 +91,37 @@ If you want to know when I launch;
   - :heavy_check_mark: Set Hometown
   - :heavy_check_mark: Website and other links
   - :pencil: Geneology tagging
-  - :white_check_mark: Life Events (big days, birth, marriage, new kid, divorce, etc...)
+  - :white_check_mark: Life Events
+    - (01) Work
+      - New Job
+      - Promotion
+      - Left Job
+        - Title: "Left Job" & Workplace
+      - Retirement
+        - Title: "Retired"
+    - (02) Education
+      - 
+    - (03) Relationship
+      - 
+    - (04) Home & Living
+      - 
+    - (05) Family
+      - New Child
+      - Parenthood
+      - New Pet
+      - Loss of a Loved One
+    - (06) Travel
+        - Fields: Title, Location (optional), and Date
+    - (07) Interests & Activities
+        - Fields: Title and Date
+    - (08) Health & Wellness
+        - Fields: Title and Date
+    - (09) Milestones & Achievements
+        - Fields: Title and Date
+    - (10) Remembrance
+        - Fields: Title and Date
+    - (11) Create Your Own
+        - Fields: Title and Date
 - :heavy_check_mark: Friends List
 - :pencil: Pictures uploads
 - :pencil: Video uploads
@@ -146,47 +179,48 @@ If you want to know when I launch;
 
 ### General
 - :white_check_mark: Responsiveness
-- :heavy_check_mark: Ads
-- :heavy_check_mark: Time localization
-- :heavy_check_mark: Post statuses / Post to another user's wall
+- :white_check_mark: Ads
+- :white_check_mark: Time localization
+- :white_check_mark: Post statuses / Post to another user's wall
 - :heavy_check_mark: "Friend Request" system operational (add, remove, cancel, block, unblock)
 - Notifications
   - Get notified when someone;
-    - :heavy_check_mark: writes on your wall,
-    - :heavy_check_mark: comments,
-    - :heavy_check_mark: likes
-    - :heavy_check_mark: Sends you a message
-- :heavy_check_mark: Can 'like' people's statuses
+    - :white_check_mark: writes on your wall,
+    - :white_check_mark: comments,
+    - :white_check_mark: likes
+    - :white_check_mark: Sends you a message
+- :heavy_check_mark: Can 'like' people's statuses & people's Q&A
 - :heavy_check_mark: Able to comment on statuses
 - :heavy_check_mark: Can see which friends are online on the right side
-- :heavy_check_mark: Finished notify status poster about a new like- post status comment
+- :heavy_check_mark: Finished notifying status poster about a new like- post status comment
 - :heavy_check_mark: Legal pages, gotta be transparent
-- :heavy_check_mark: Collapse comments on posts onload if there are more than 2 comments
+- :heavy_check_mark: Collapse comments on posts on load if there are more than 2 comments
 - :white_check_mark: When someone turns 18, update their age filters automatically
 - :pencil: Proper error messages if queries fail
 - :white_check_mark: User search / autocomplete
-- :white_check_mark: Add a "Load More" button to only the feeds
+- :white_check_mark: Add a "Load More" infinite scroll on the newsfeeds and private messages
 - Post/status updates & comment actions
    - POSTS / STATUS UPDATES
      - :heavy_check_mark: Edit
      - :heavy_check_mark: Delete
      - :white_check_mark: Report
    - COMMENTS 
-     - :heavy_check_mark: Edit
-     - :heavy_check_mark: Delete
+     - :white_check_mark: Edit
+     - :white_check_mark: Delete
      - :white_check_mark: Report
-- :pencil: Image upload where necessary
-  - Can't work on this until I get S3 set up
+- Image upload where necessary
+  - :heavy_check_mark: Status Update (max 5 images, allow - jpeg/jpg, png, gif... jpeg/jpg & png images converted to webp on upload)
+  - :pencil: Comment picture (max 1, allows the same as the status update, will also convert to webp)
+  - :pencil: Messages picture (max 5? allows the same as the status update, will also convert to webp)
 - :pencil: Create phone apps for Android and iOS
 
 ### Subscription
 - :white_check_mark: The entire page
-- :heavy_check_mark: Rates: USD$6.95/month (???)
-  - *Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advanced. And will also make an announcement on social media.
+- :heavy_check_mark: Rates: USD$6.95/month
+  - *Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advance.
 - Perks:
   - :pencil: Ability to allow the user to design what their profile looks like, like MySpace (Profile > ?)
   - :pencil: Filter to preferred ethnicity (Public > Filter form)
-  - :pencil: Location _AND_ [you can choose location _AND_ radius] (Public > Filter form)
   - :white_check_mark: "Reverse Filter" (Public > Filter form)
   - :pencil: Stealth setting (Settings > Privacy Tab)
   - :white_check_mark: Ad-free (General)
@@ -207,7 +241,7 @@ If you want to know when I launch;
 
 -----------------------
 ## Resources
-- <a href="https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/welcome.html" target="_blank">AWS SDK for PHP</a> - To upload images to Amazon S3
+- <a href="https://cloudinary.com/documentation/cloudinary_references" target="_blank">Programamble Media API References | Cloudinary</a> - To upload images to Cloudinary
 - <a href="https://fontawesome.com/" target="_blank">FontAwesome</a> - For all the cool icons
 - <a href="https://mdbootstrap.com/" target="_blank">MDBootstrap</a> - The quick layout, basic responsiveness, and some functionality
 - <a href="https://github.com/stripe/stripe-php" target="_blank">stripe-php</a> - Payment gateway for subscription

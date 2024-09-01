@@ -157,7 +157,9 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - :white_check_mark: Initialize/continue the conversation from the profile
 - :heavy_check_mark: Friends List
 - "Timeline" section
+    - 
 - "About" section
+    - 
   - :heavy_check_mark: Bio
     - :heavy_check_mark: Set nickname
     - :heavy_check_mark: Set/change pronouns
@@ -223,10 +225,12 @@ I've created a Donation button on PayPal to seek help with the costs,\
     - Create Your Own
         - Fields; Title and Date
   - "Photos" section
+    - 
     - :white_check_mark: Picture display grid (okay for now)
     - :heavy_check_mark: Change profile picture, don't allow gif images
     - :heavy_check_mark: Delete single picture
   - "Videos" section
+    - 
     - :pencil: ... I'm deciding if I want to still allow or not.
 
 ### Post

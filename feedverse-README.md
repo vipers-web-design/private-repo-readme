@@ -120,7 +120,9 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - Friend Manager
   - :pencil: Shows when someone accepted your friend request
   - :white_check_mark: Shows when you've been unfriended
-- :heavy_check_mark: Show when someone unfriends you (Note: It works, I to organize it a little better)
+- Online Friends
+  - :while_check_mark: Shows friends who are online at the time of page load
+    - :pencil: * Fetch call (????)
 
 ### Profile
 - :white_check_mark: Privacy

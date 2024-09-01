@@ -104,7 +104,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
 ### Newsfeed
 - Profile Box
   - :heavy_check_mark: Shows selected profile pic
-  - :heavy_check_mark: Link to "Photos" tab on Profile page
+  - :heavy_check_mark: Link to the "Photos" tab on the Profile page
   - :white_check_mark: Shows current Versebucks amount, with links to Buy & Exchange (both launch modal windows)
     - added a Versebucks coin image to the "Buy" modal
   - :heavy_check_mark: Button-link to subscription form
@@ -115,7 +115,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - :white_check_mark: New Question Count
   - :white_check_mark: New Comment Count
 - Birthdays
-  - :white_check_mark: Card/Panel will only show when it is friend's birthday
+  - :white_check_mark: Card/Panel will only show when it is a friend's birthday
 - Friend Manager
   - :pencil: Shows when someone accepted your friend request
   - :white_check_mark: Shows when you've been unfriended
@@ -127,11 +127,11 @@ I've created a Donation button on PayPal to seek help with the costs,\
     - A WYSIWYG editor to share status updates
     - Collapsable panel containing file-input field
       - Limit of 5 images to be added
-      - Accepts filetypes; JPEG/JPG, PNG, and GIF. The JPEG/JPG and PNG get converted to WEBP during upload process
-    - The share button, disabled by default until the WYSIWYG or file-input contain something, then will (should) return to the default state if both fields are empty.
+      - Accepts file types; JPEG/JPG, PNG, and GIF. The JPEG/JPG and PNG get converted to WEBP during the upload process
+    - The share button, disabled by default until the WYSIWYG or file input contains something, will (should) return to the default state if both fields are empty.
   - Tab features:
-    - The first three tabs auto-saves in DB
-    - The first three tabs have a "refresh" link/btn to check if new posts are made
+    - The first three tabs auto-save in DB
+    - The first three tabs have a "refresh" link/button to check if new posts are made
   - Tab: Near Me
     - :white_check_mark: Has a "Filter form" summary (gender list, age range, location)
     - Define filters
@@ -139,18 +139,20 @@ I've created a Donation button on PayPal to seek help with the costs,\
       - :heavy_check_mark: Relationship status
       - :heavy_check_mark: Gender
       - :white_check_mark: Location
-      - (* _shows your friend's PUBLIC posts in the "Public" feed_)
+      - VIP Filters
+        - :heavy_check_mark: Ethnicity
+        - :pencil: Orientation
+        - :white_check_mark: "Reverse" Filter
     - :heavy_check_mark: Shows the 10 most recent posts made
   - Tab: Friends
     - :heavy_check_mark: Shows the 10 most recent posts made
   - Tab: Everyone
     - :heavy_check_mark: Shows the 10 most recent posts made
-    - :heavy_check_mark: Based on age, regardless of location on Earth. If `< 18` then only show posts from 13 - 17 years old; if `>= 18`, then show posts 18 - 125 years old.
+    - :heavy_check_mark: Based on age, regardless of location on Earth. If `< 18` only shows posts from 13 - 17 years old; if `>= 18`, then show posts 18 - 125 years old.
   - Tab: My Chatter
     - Shows the 10 most recent posts made
 
 ### Profile
-- :white_check_mark: Privacy
 - :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
 - :white_check_mark: Initialize/continue the conversation from the profile
 - "About" section
@@ -165,36 +167,59 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - :heavy_check_mark: Website and other links
   - :pencil: Geneology tagging
   - :white_check_mark: Life Events
-    - (01) Work
+    - Work
       - New Job
+        - Fields; Title: "Started Job", Workplace, and Date
       - Promotion
+        - Fields; Title: "Promoted" and Date
       - Left Job
-        - Title: "Left Job" & Workplace
+        - Fields; Title: "Left Job", Workplace, and Date
       - Retirement
-        - Title: "Retired"
-    - (02) Education
-      - 
-    - (03) Relationship
-      - 
-    - (04) Home & Living
-      - 
-    - (05) Family
+        - Fields; Title: "Retired" and Date
+    - Education
+      - New School
+        - Fields; Title: "Started School", School Type: [High School / College], School, and Date
+      - Graduated
+        - Fields; Title: "Graduated", School Type: [High School / College], School, and Date
+      - Left School
+        - Fields; Title: "Left School", School Type: [High School / College], School, and Date
+    - Relationship
+      - New Relationship
+        - Fields; Title: "In a Relationship", Partner {Optional}, and Date
+      - Engagement
+        - Fields; Title: "Engaged", Partner {Optional}, and Date
+      - Marriage
+        - Fields; Title: "Married", Partner {Optional}, and Date
+      - First Met
+        - Fields; Title: "First met", Partner, and Date
+    - Home & Living
+      - Moved
+        - Fields; Title: "Moved", Location, and Date
+      - Places I've Lived
+        - Fields; Title: "Places I've Lived", Location {Optional}, and Date
+      - Hometown
+        - Fields; Title: "Hometown", Location {Optional}, and Date
+    - Family
       - New Child
+        - Fields; Title "New Child" and Date
       - Parenthood
+        - Fields; Title "Parenthood" and Date
       - New Pet
+        - Fields; Title "New Pet" and Date
       - Loss of a Loved One
-    - (06) Travel
-        - Fields: Title, Location (optional), and Date
-    - (07) Interests & Activities
-        - Fields: Title and Date
-    - (08) Health & Wellness
-        - Fields: Title and Date
-    - (09) Milestones & Achievements
-        - Fields: Title and Date
-    - (10) Remembrance
-        - Fields: Title and Date
-    - (11) Create Your Own
-        - Fields: Title and Date
+        - Fields; Title "Remembering" and Date
+    - Travel
+        - Fields; Title, Location (optional), and Date
+    - Interests & Activities
+        - Fields; Title and Date
+    - Health & Wellness
+        - Fields; Title and Date
+    - Milestones & Achievements
+        - Fields; Title and Date
+    - Remembrance
+        - Fields; Title and Date
+    - Create Your Own
+        - Fields; Title and Date
 - :heavy_check_mark: Friends List
 - :pencil: Pictures uploads
 - :pencil: Video uploads
@@ -236,6 +261,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - "Security & Login" tab
   - :heavy_check_mark: Change Password
 - "Privacy" tab
+  - :white_check_mark: Privacy
   - :heavy_check_mark: Limit who can send you messages
 - "Profile" / "Profile & Tagging" tab
   - :heavy_check_mark: Limit who can post on your wall

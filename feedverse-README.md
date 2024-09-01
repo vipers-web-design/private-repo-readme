@@ -155,6 +155,8 @@ I've created a Donation button on PayPal to seek help with the costs,\
 ### Profile
 - :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
 - :white_check_mark: Initialize/continue the conversation from the profile
+- :heavy_check_mark: Friends List
+- "Timeline" section
 - "About" section
   - :heavy_check_mark: Bio
     - :heavy_check_mark: Set nickname
@@ -220,9 +222,12 @@ I've created a Donation button on PayPal to seek help with the costs,\
         - Fields; Title and Date
     - Create Your Own
         - Fields; Title and Date
-- :heavy_check_mark: Friends List
-- :pencil: Pictures uploads
-- :pencil: Video uploads
+  - "Photos" section
+    - :white_check_mark: Picture display grid (okay for now)
+    - :heavy_check_mark: Change profile picture, don't allow gif images
+    - :heavy_check_mark: Delete single picture
+  - "Videos" section
+    - :pencil: ... I'm deciding if I want to still allow or not.
 
 ### Post
 - Marks the following as "seen" when reading the single post
@@ -336,9 +341,8 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - <a href="https://fontawesome.com/" target="_blank">FontAwesome</a> - For all the cool icons
 - <a href="https://mdbootstrap.com/" target="_blank">MDBootstrap</a> - The quick layout, basic responsiveness, and some functionality
 - <a href="https://github.com/stripe/stripe-php" target="_blank">stripe-php</a> - Payment gateway for subscription
-- <a href="https://github.com/PHPMailer/PHPMailer" target="_blank">PHPMailer</a> - What makes sending emails possible
+- <a href="https://www.mailersend.com/" target="_blank">Email Sending Service - MailerSend</a> - What makes sending emails possible
 - <a href="https://github.com/dr5hn/countries-states-cities-database" target="_blank">dr5hn &#8725; countries-states-cities-database</a> - The world database I am using
 
 ## Credits
 - All my friends - Thank you for being awesome and believing in me.
-- Thank you to <a href="https://github.com/Ravavyr" target="_blank">@Ravavyr</a> for being a soundboard.

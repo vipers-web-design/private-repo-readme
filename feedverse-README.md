@@ -19,9 +19,6 @@
     </tr>
     <tr>
       <td>
-        <a href="#public">Public</a>
-      </td>
-      <td>
         <a href="#post">Post</a>
       </td>
       <td>
@@ -30,11 +27,11 @@
       <td>
         <a href="#stats">Stats</a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="#family">Family</a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="#settings">Settings</a>
       </td>
@@ -44,11 +41,11 @@
       <td>
         <a href="#subscription">Subscription</a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="#admin-controls">Admin Controls</a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="#addons">Addons</a>
       </td>
@@ -58,6 +55,7 @@
       <td>
         <a href="#credits">Credits</a>
       </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -108,6 +106,8 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - :heavy_check_mark: Shows selected profile pic
   - :heavy_check_mark: Link to "Photos" tab on Profile page
   - :white_check_mark: Shows current Versebucks amount, with links to Buy & Exchange (both launch modal windows)
+    - added a Versebucks coin image to the "Buy" modal
+  - :heavy_check_mark: Button-link to subscription form
 - Actions (aka Notifications)
   - :white_check_mark: New Friend Request Count
   - :white_check_mark: New Profile Views Count
@@ -116,13 +116,38 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - :white_check_mark: New Comment Count
 - Birthdays
   - :white_check_mark: Card/Panel will only show when it is friend's birthday
-    - * Further function TBD
 - Friend Manager
   - :pencil: Shows when someone accepted your friend request
   - :white_check_mark: Shows when you've been unfriended
 - Online Friends
   - :white_check_mark: Shows friends who are online at the time of page load
-    - :pencil: * Fetch call (????)
+- The newsfeeds
+  - :white_check_mark: Card / Panel contains:
+    - Shows your most recent status that doesn't have any pictures included in the post
+    - A WYSIWYG editor to share status updates
+    - Collapsable panel containing file-input field
+      - Limit of 5 images to be added
+      - Accepts filetypes; JPEG/JPG, PNG, and GIF. The JPEG/JPG and PNG get converted to WEBP during upload process
+    - The share button, disabled by default until the WYSIWYG or file-input contain something, then will (should) return to the default state if both fields are empty.
+  - Tab features:
+    - The first three tabs auto-saves in DB
+    - The first three tabs have a "refresh" link/btn to check if new posts are made
+  - Tab: Near Me
+    - :white_check_mark: Has a "Filter form" summary (gender list, age range, location)
+    - Define filters
+      - :heavy_check_mark: Age
+      - :heavy_check_mark: Relationship status
+      - :heavy_check_mark: Gender
+      - :white_check_mark: Location
+      - (* _shows your friend's PUBLIC posts in the "Public" feed_)
+    - :heavy_check_mark: Shows the 10 most recent posts made
+  - Tab: Friends
+    - :heavy_check_mark: Shows the 10 most recent posts made
+  - Tab: Everyone
+    - :heavy_check_mark: Shows the 10 most recent posts made
+    - :heavy_check_mark: Based on age, regardless of location on Earth. If `< 18` then only show posts from 13 - 17 years old; if `>= 18`, then show posts 18 - 125 years old.
+  - Tab: My Chatter
+    - Shows the 10 most recent posts made
 
 ### Profile
 - :white_check_mark: Privacy
@@ -173,14 +198,6 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - :heavy_check_mark: Friends List
 - :pencil: Pictures uploads
 - :pencil: Video uploads
-
-### Public
-- Define filters
-  - :heavy_check_mark: Age
-  - :heavy_check_mark: Relationship status
-  - :heavy_check_mark: Gender
-  - :white_check_mark: Location
-  - * _shows your friend's PUBLIC posts in the "Public" feed_
 
 ### Post
 - Marks the following as "seen" when reading the single post

@@ -1,27 +1,61 @@
 # feedverse.net
 ## Table of Contents (based on page)
 
-- [Authentication](#authentication)
-- [Newsfeed](#newsfeed)
-- [Profile](#profile)
-- [Profile Views](#profile-views)
-- [Public](#public)
-- [Post](#post)
-- [Messages](#messages)
-- [Stats](#stats)
-- [Family](#family)
-- [Settings](#settings)
-- [General](#general)
-- [Subscription](#subscription)
-- [Admin Controls](#admin-controls)
-- [Addons](#addons)
-- [Resources](#resources)
-- [Credits](#credits)
-
-<table>
+<table width="100%">
   <tbody>
     <tr>
-      <td>
+      <td width="25%">
+        <a href="#authentication">Authentication</a>
+      </td>
+      <td width="25%">
+        <a href="#newsfeed">Newsfeed</a>
+      </td>
+      <td width="25%">
+        <a href="#profile">Profile</a>
+      </td>
+      <td width="25%">
+        <a href="#profile-views">Profile Views</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%">
+        <a href="#public">Public</a>
+      </td>
+      <td width="25%">
+        <a href="#post">Post</a>
+      </td>
+      <td width="25%">
+        <a href="#messages">Messages</a>
+      </td>
+      <td width="25%">
+        <a href="#stats">Stats</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%">
+        <a href="#family">Family</a>
+      </td>
+      <td width="25%">
+        <a href="#settings">Settings</a>
+      </td>
+      <td width="25%">
+        <a href="#general">General</a>
+      </td>
+      <td width="25%">
+        <a href="#subscription">Subscription</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%">
+        <a href="#admin-controls">Admin Controls</a>
+      </td>
+      <td width="25%">
+        <a href="#addons">Addons</a>
+      </td>
+      <td width="25%">
+        <a href="#resources">Resources</a>
+      </td>
+      <td width="25%">
         <a href="#credits">Credits</a>
       </td>
     </tr>

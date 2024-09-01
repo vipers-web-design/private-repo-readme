@@ -1,5 +1,5 @@
 # feedverse.net
-## Table of Contents (based on page)
+## Table of Contents
 
 <table>
   <tbody>
@@ -104,10 +104,22 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - :pencil: 2FA
 
 ### Newsfeed
-- :heavy_check_mark: 1-click Birthday wish
-- Pending requests
-  - :heavy_check_mark: New friends
-  - :white_check_mark: Accept someone's "Feedverse official" request if you're dating them
+- Profile Box
+  - :heavy_check_mark: Shows selected profile pic
+  - :heavy_check_mark: Link to "Photos" tab on Profile page
+  - :white_check_mark: Shows current Versebucks amount, with links to Buy & Exchange (both launch modal windows)
+- Actions (aka Notifications)
+  - :white_check_mark: New Friend Request Count
+  - :white_check_mark: New Profile Views Count
+  - :white_check_mark: New Message Count
+  - :white_check_mark: New Question Count
+  - :white_check_mark: New Comment Count
+- Birthdays
+  - :white_check_mark: Card/Panel will only show when it is friend's birthday
+    - * Further function TBD
+- Friend Manager
+  - :pencil: Shows when someone accepted your friend request
+  - :white_check_mark: Shows when you've been unfriended
 - :heavy_check_mark: Show when someone unfriends you (Note: It works, I to organize it a little better)
 
 ### Profile
@@ -166,7 +178,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - :heavy_check_mark: Relationship status
   - :heavy_check_mark: Gender
   - :white_check_mark: Location
-  - *_shows your friend's PUBLIC posts in the "Public" feed_
+  - * _shows your friend's PUBLIC posts in the "Public" feed_
 
 ### Post
 - Marks the following as "seen" when reading the single post
@@ -251,7 +263,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
 ### Subscription
 - :white_check_mark: The entire page
 - :heavy_check_mark: Rates: USD$6.95/month
-  - *Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advance.
+  - * Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advance.
 - Perks:
   - :pencil: Ability to allow the user to design what their profile looks like, like MySpace (Profile > ?)
   - :pencil: Filter to preferred ethnicity (Public > Filter form)

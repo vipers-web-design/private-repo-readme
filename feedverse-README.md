@@ -122,13 +122,6 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - Online Friends
   - :white_check_mark: Shows friends who are online at the time of page load
 - The newsfeeds
-  - :white_check_mark: Card / Panel contains:
-    - Shows your most recent status that doesn't have any pictures included in the post
-    - A WYSIWYG editor to share status updates
-    - Collapsable panel containing file-input field
-      - Limit of 5 images to be added
-      - Accepts file types; JPEG/JPG, PNG, and GIF. The JPEG/JPG and PNG get converted to WEBP during the upload process
-    - The share button, disabled by default until the WYSIWYG or file input contains something, will (should) return to the default state if both fields are empty.
   - Tab features:
     - The first three tabs auto-save in DB
     - The first three tabs have a "refresh" link/button to check if new posts are made
@@ -150,19 +143,17 @@ I've created a Donation button on PayPal to seek help with the costs,\
     - :heavy_check_mark: Shows the 10 most recent posts made
     - :heavy_check_mark: Based on age, regardless of location on Earth. If `< 18` only shows posts from 13 - 17 years old; if `>= 18`, then show posts 18 - 125 years old.
   - Tab: My Chatter
-    - Shows the 10 most recent posts made
+    - Shows the 10 most recent posts made by you
 
 ### Profile
 - :heavy_check_mark: Profile pic, nice and large
 - :heavy_check_mark: Friends List
 - :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
 - :pencil: Initialize/continue the conversation from the profile
-- "Timeline" section
-    - 
-- "About" section
-    - 
+#### "Timeline" section
+  - Shows the 10 most recent posts made by or answered by you
+#### "About" section
   - :heavy_check_mark: Can edit your "about me"/bio 
-  - :heavy_check_mark: Set nickname (if you are a subscriber)
   - :heavy_check_mark: Set/change pronouns
   - :heavy_check_mark: Basic Information (Gender, Religious & Political Views, etc)
   - :white_check_mark: Set relationship status
@@ -225,14 +216,12 @@ I've created a Donation button on PayPal to seek help with the costs,\
         - Fields; Title and Date
     - Create Your Own
         - Fields; Title and Date
-  - "Photos" section
-    - 
-    - :white_check_mark: Picture display grid (okay for now)
-    - :heavy_check_mark: Change profile picture, don't allow gif images
-    - :heavy_check_mark: Delete single picture
-  - "Videos" section (hidden for now)
-    - 
-    - :pencil: ... I'm deciding if I want to allow video uploads, or not.
+#### "Photos" section
+  - :white_check_mark: Picture display grid (okay for now)
+  - :heavy_check_mark: Change profile picture, don't allow gif images
+  - :heavy_check_mark: Delete single picture
+#### "Videos" section (hidden for now)
+  - :pencil: ... I'm deciding if I want to allow video uploads, or not.
 
 ### Post
 - Marks the following as "seen" when reading the single post
@@ -282,7 +271,13 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - :white_check_mark: Responsiveness
 - :white_check_mark: Ads
 - :white_check_mark: Time localization
-- :white_check_mark: Post statuses / Post to another user's wall
+- :white_check_mark: Card / Panel contains:
+  - Shows your most recent status that doesn't have any pictures included in the post
+  - A WYSIWYG editor to share status updates
+  - ***__ONLY IF YOU ARE VIEWING YOUR OWN PROFILE__*** Collapsable panel containing file-input field
+    - Limit of 5 images to be added
+    - Accepts file types; JPEG/JPG, PNG, and GIF. The JPEG/JPG and PNG get converted to WEBP during the upload process
+  - The share button, disabled by default until the WYSIWYG or file input contains something, will (should) return to the default state if both fields are empty.
 - :heavy_check_mark: "Friend Request" system operational (add, remove, cancel, block, unblock)
 - Notifications
   - Get notified when someone;
@@ -317,9 +312,10 @@ I've created a Donation button on PayPal to seek help with the costs,\
 
 ### Subscription
 - :white_check_mark: The entire page
-- :heavy_check_mark: Rates: USD$6.95/month
+- :white_check_mark: Rates: USD$6.95/month
   - * Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advance.
 - Perks:
+  - :heavy_check_mark: Set nickname
   - :pencil: Ability to allow the user to design what their profile looks like, like MySpace (Profile > ?)
   - :pencil: Filter to preferred ethnicity (Public > Filter form)
   - :white_check_mark: "Reverse Filter" (Public > Filter form)

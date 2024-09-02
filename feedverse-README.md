@@ -153,23 +153,24 @@ I've created a Donation button on PayPal to seek help with the costs,\
     - Shows the 10 most recent posts made
 
 ### Profile
-- :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
-- :white_check_mark: Initialize/continue the conversation from the profile
+- :heavy_check_mark: Profile pic, nice and large
 - :heavy_check_mark: Friends List
+- :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
+- :pencil: Initialize/continue the conversation from the profile
 - "Timeline" section
     - 
 - "About" section
     - 
-  - :heavy_check_mark: Bio
-    - :heavy_check_mark: Set nickname
-    - :heavy_check_mark: Set/change pronouns
-  - :heavy_check_mark: Favorite quotes
-  - :heavy_check_mark: Basic Information (Cell Num, Gender, Religious & Political Views, etc)
+  - :heavy_check_mark: Can edit your "about me"/bio 
+  - :heavy_check_mark: Set nickname (if you are a subscriber)
+  - :heavy_check_mark: Set/change pronouns
+  - :heavy_check_mark: Basic Information (Gender, Religious & Political Views, etc)
   - :white_check_mark: Set relationship status
-  - :heavy_check_mark: Change current address/city
+  - :heavy_check_mark: Change current city
   - :heavy_check_mark: Set Hometown
   - :heavy_check_mark: Website and other links
   - :pencil: Geneology tagging
+  - :heavy_check_mark: Add/Edit favorite quotes
   - :white_check_mark: Life Events
     - Work
       - New Job
@@ -229,9 +230,9 @@ I've created a Donation button on PayPal to seek help with the costs,\
     - :white_check_mark: Picture display grid (okay for now)
     - :heavy_check_mark: Change profile picture, don't allow gif images
     - :heavy_check_mark: Delete single picture
-  - "Videos" section
+  - "Videos" section (hidden for now)
     - 
-    - :pencil: ... I'm deciding if I want to still allow or not.
+    - :pencil: ... I'm deciding if I want to allow video uploads, or not.
 
 ### Post
 - Marks the following as "seen" when reading the single post
@@ -262,7 +263,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - :heavy_check_mark: Shows how many conversations you've started & received, and how many messages you've written
 
 ### Settings
-##### (Kind of following Facebook's flow)
+##### (Following Facebook's flow)
 - :heavy_check_mark: Deep linked tabs to become shareable if you need to show where a setting is located
 - "General" tab
   - :heavy_check_mark: Change name

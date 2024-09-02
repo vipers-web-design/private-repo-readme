@@ -150,18 +150,26 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - :heavy_check_mark: Friends List
 - :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
 - :pencil: Initialize/continue the conversation from the profile
+- :pencil: Ability to allow the user to design what their profile looks like, like MySpace
 #### "Timeline" section
   - Shows the 10 most recent posts made by or answered by you
 #### "About" section
+##### "Basic Info"
   - :heavy_check_mark: Can edit your "about me"/bio 
   - :heavy_check_mark: Set/change pronouns
-  - :heavy_check_mark: Basic Information (Gender, Religious & Political Views, etc)
-  - :white_check_mark: Set relationship status
+  - :white_check_mark: Add/Edit/Delete Employment History
+  - :white_check_mark: Add/Edit/Delete College History
+  - :white_check_mark: Add/Edit High School
+##### "Contact Info"
   - :heavy_check_mark: Change current city
-  - :heavy_check_mark: Set Hometown
   - :heavy_check_mark: Website and other links
-  - :pencil: Geneology tagging
+##### "Personal Info"
+  - :white_check_mark: Set relationship status
+  - :heavy_check_mark: Set political alignment
+  - :heavy_check_mark: Set religious background
+  - :heavy_check_mark: Set Hometown
   - :heavy_check_mark: Add/Edit favorite quotes
+  - :pencil: Geneology tagging
   - :white_check_mark: Life Events
     - Work
       - New Job
@@ -316,7 +324,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - * Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advance.
 - Perks:
   - :heavy_check_mark: Set nickname
-  - :pencil: Ability to allow the user to design what their profile looks like, like MySpace (Profile > ?)
+  - :heavy_check_mark: Set ethnicity
   - :pencil: Filter to preferred ethnicity (Public > Filter form)
   - :white_check_mark: "Reverse Filter" (Public > Filter form)
   - :pencil: Stealth setting (Settings > Privacy Tab)

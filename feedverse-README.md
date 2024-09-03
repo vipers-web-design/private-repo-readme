@@ -158,8 +158,17 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - :heavy_check_mark: Can edit your "about me"/bio 
   - :heavy_check_mark: Set/change pronouns
   - :white_check_mark: Add/Edit/Delete Employment History
+    - Add / Edit;
+      - Fields; Company, Position, City/Town, Description, Dates
+    - Delete
   - :white_check_mark: Add/Edit/Delete College History
+    - Add / Edit;
+      - Fields; School, Dates, Graduated(?), Description, Concentration (3?), Attended [College / Graduate School], Degree
+    - Delete
   - :white_check_mark: Add/Edit High School
+    - Add / Edit;
+      - Fields; High School, Dates, Graduated(?), Description
+    - Delete
 ##### "Contact Info"
   - :heavy_check_mark: Change current city
   - :heavy_check_mark: Website and other links
@@ -233,8 +242,8 @@ I've created a Donation button on PayPal to seek help with the costs,\
 
 ### Post
 - Marks the following as "seen" when reading the single post
-  - :heavy_check_mark: Received wall posts
-  - :heavy_check_mark: Received reactions
+  - :white_check_mark: Received wall posts
+  - :white_check_mark: Received reactions
   - :pencil: Received comments
 
 ### Messages
@@ -324,10 +333,11 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - * Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advance.
 - Perks:
   - :heavy_check_mark: Set nickname
+  - :pencil: Set orientation
   - :heavy_check_mark: Set ethnicity
   - :pencil: Filter to preferred ethnicity (Public > Filter form)
   - :white_check_mark: "Reverse Filter" (Public > Filter form)
-  - :pencil: Stealth setting (Settings > Privacy Tab)
+  - :heavy_check_mark: Stealth setting (Settings > Privacy Tab)
   - :white_check_mark: Ad-free (General)
   - :heavy_check_mark: Daily Login Bonus; 30% more Versebucks
   - ... and more, TBD

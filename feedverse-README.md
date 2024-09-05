@@ -141,13 +141,13 @@ I've created a Donation button on PayPal to seek help with the costs,\
     - :heavy_check_mark: Shows the 10 most recent posts made
   - Tab: Everyone
     - :heavy_check_mark: Shows the 10 most recent posts made
-    - :heavy_check_mark: Based on age, regardless of location on Earth. If `< 18` only shows posts from 13 - 17 years old; if `>= 18`, then show posts 18 - 125 years old.
+    - :heavy_check_mark: Based on age, regardless of location on Earth. If `your < 18` only shows posts from 13 - 17 years old; if `your >= 18`, then show posts 18 - 125 years old.
   - Tab: My Chatter
     - Shows the 10 most recent posts made by you
 
 ### Profile
 - :heavy_check_mark: Profile pic, nice and large
-- :heavy_check_mark: Friends List
+- :heavy_check_mark: Friends List,
 - :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
 - :pencil: Initialize/continue the conversation from the profile
 - :pencil: Ability to allow the user to design what their profile looks like, like MySpace
@@ -309,7 +309,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - :heavy_check_mark: Legal pages, gotta be transparent
 - :heavy_check_mark: Collapse comments on posts on load if there are more than 2 comments
 - :white_check_mark: When someone turns 18, update their age filters automatically
-- :pencil: Proper error messages if queries fail
+- :pencil: Proper error messages if a specific action fail
 - :white_check_mark: User search / autocomplete
 - :white_check_mark: Add a "Load More" infinite scroll on the newsfeeds and private messages
 - Post/status updates & comment actions

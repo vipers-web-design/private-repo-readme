@@ -160,15 +160,12 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - :white_check_mark: Add/Edit/Delete Employment History
     - Add / Edit;
       - Fields; Company, Position, City/Town, Description, Dates
-    - Delete
   - :white_check_mark: Add/Edit/Delete College History
     - Add / Edit;
       - Fields; School, Dates, Graduated(?), Description, Concentration (3?), Attended [College / Graduate School], Degree
-    - Delete
-  - :white_check_mark: Add/Edit High School
+  - :white_check_mark: Add/Edit/Delete High School
     - Add / Edit;
       - Fields; High School, Dates, Graduated(?), Description
-    - Delete
 ##### "Contact Info"
   - :heavy_check_mark: Change current city
   - :heavy_check_mark: Website and other links

@@ -42,7 +42,7 @@
         <a href="#subscription">Subscription</a>
       </td>
       <td>
-        <a href="#admin-controls">Admin Controls</a>
+        <a href="#admin--mod-controls">Admin Controls</a>
       </td>
       <td>
         <a href="#addons">Addons</a>

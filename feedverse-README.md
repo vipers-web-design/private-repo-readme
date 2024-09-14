@@ -16,11 +16,11 @@
       <td>
         <a href="#profile-views">Profile Views</a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="#post">Post</a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="#messages">Messages</a>
       </td>
@@ -30,22 +30,20 @@
       <td>
         <a href="#family">Family</a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="#settings">Settings</a>
       </td>
       <td>
         <a href="#general">General</a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="#subscription">Subscription</a>
       </td>
       <td>
         <a href="#admin-controls">Admin Controls</a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="#addons">Addons</a>
       </td>
@@ -55,7 +53,6 @@
       <td>
         <a href="#credits">Credits</a>
       </td>
-      <td></td>
     </tr>
   </tbody>
 </table>

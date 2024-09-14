@@ -123,7 +123,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
     - The first three tabs auto-save in DB
     - The first three tabs have a "refresh" link/button to check if new posts are made
   - Tab: Near Me
-    - :white_check_mark: Has a "Filter form" summary (gender list, age range, location)
+    - :heavy_check_mark: Has a "Filter form" summary (gender list, age range, location)
     - Define filters
       - :heavy_check_mark: Age
       - :heavy_check_mark: Relationship status
@@ -165,7 +165,13 @@ I've created a Donation button on PayPal to seek help with the costs,\
       - Fields; High School, Dates, Graduated(?), Description
 ##### "Contact Info"
   - :heavy_check_mark: Change current city
-  - :heavy_check_mark: Website and other links
+  - :heavy_check_mark: Website and other links (current list below)
+    - "portfolio" -> open to interpritation
+    - Twitter
+    - Twitch
+    - LinkedIn
+    - GitHub
+    - Reddit
 ##### "Personal Info"
   - :white_check_mark: Set relationship status
   - :heavy_check_mark: Set political alignment
@@ -272,17 +278,21 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - :white_check_mark: Rates: USD$6.95/month
   - * Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advance.
 - Perks:
-  - :heavy_check_mark: Set nickname
-  - :pencil: Set orientation
-  - :heavy_check_mark: Set ethnicity
-  - :pencil: Filter to preferred ethnicity (Public > Filter form)
-  - :white_check_mark: "Reverse Filter" (Public > Filter form)
+  - :pencil: Filter to preferred ethnicity ("Near Me" > Filter form)
+  - :pencil: Filter to preferred orientation ("Near Me" > Filter form)
+  - :white_check_mark: "Reverse Filter" ("Near Me" > Filter form)
+  - :heavy_check_mark: Set nickname (Profile > About)
+  - :pencil: Set orientation (Profile > About)
+  - :heavy_check_mark: Set ethnicity (Profile > About)
   - :heavy_check_mark: Stealth setting (Settings > Privacy Tab)
   - :white_check_mark: Ad-free (General)
-  - :heavy_check_mark: Daily Login Bonus; 30% more Versebucks
+  - :heavy_check_mark: Daily Login Bonus; 30% more Versebucks (General)
   - ... and more, TBD
 
-### Admin Controls
+### Scambaiters
+- :pencil: Ability to create persona's profiles through their own
+
+### Admin / Mod Controls
 - :pencil: Everything
 
 ### Addons

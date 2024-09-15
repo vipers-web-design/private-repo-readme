@@ -42,7 +42,7 @@
         <a href="#subscription">Subscription</a>
       </td>
       <td>
-        <a href="#admin--mod-controls">Admin Controls</a>
+        <a href="#admin-controls">Admin Controls</a>
       </td>
       <td>
         <a href="#addons">Addons</a>
@@ -291,6 +291,9 @@ I've created a Donation button on PayPal to seek help with the costs,\
 
 ### Scambaiters
 - :pencil: Ability to create persona's profiles through their own
+
+### Cops / Police
+- :pencil: 
 
 ### Admin / Mod Controls
 - :pencil: Everything

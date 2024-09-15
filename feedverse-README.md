@@ -151,7 +151,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
       - VIP Filters
         - :heavy_check_mark: Ethnicity
         - :pencil: Orientation
-        - :white_check_mark: "Reverse" Filter
+        - :white_check_mark: "Reverse" Filter (meaning: anyone you are <ins>***not***</ins> searching for won't be able to find you)
     - :heavy_check_mark: Shows the 10 most recent posts made
   - Tab: Friends
     - :heavy_check_mark: Shows the 10 most recent posts made

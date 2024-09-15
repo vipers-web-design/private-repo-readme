@@ -295,8 +295,9 @@ I've created a Donation button on PayPal to seek help with the costs,\
 ### Cops / Police
 - :pencil: 
 
-### Admin / Mod Controls
+### Mod / Admin Controls
 - :pencil: Everything
+- :pencil: Add symbol to Admin to prevent impersonation.
 
 ### Addons
 #### Post

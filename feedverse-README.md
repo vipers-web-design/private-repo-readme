@@ -297,7 +297,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
 
 ### Mod / Admin Controls
 - :pencil: Everything
-- :pencil: Add symbol to Admin to prevent impersonation.
+- :pencil: Add symbol to Admin role to prevent impersonation.
 
 ### Addons
 #### Post

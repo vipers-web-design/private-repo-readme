@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-### Pages / Everyone
+##### Pages / Everyone
 <table>
   <tbody>
     <tr>
@@ -21,11 +21,11 @@
       <td>
         <a href="#post">Post</a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="#messages">Messages</a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="#stats">Stats</a>
       </td>
@@ -38,8 +38,6 @@
       <td>
         <a href="#settings">Settings</a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="#general">General</a>
       </td>
@@ -50,15 +48,12 @@
   </tbody>
 </table>
 
-### Roles
+##### Roles
 <table>
   <tbody>
     <tr>
       <td>
         <a href="#scambaiters">Scambaiters</a>
-      </td>
-      <td>
-        <a href="#cops--police">Cops / Police</a>
       </td>
       <td>
         <a href="#mod--admin-controls">Mod / Admin Controls</a>
@@ -67,7 +62,7 @@
   </tbody>
 </table>
 
-### Misc
+##### Misc
 <table>
   <tbody>
     <tr>
@@ -329,7 +324,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
 
 - :white_check_mark: The entire page
 - :white_check_mark: Rates: USD$6.95/month
-  - - Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advance.
+  - Notice: Fees are subject to change, current subscribers will get notified via email - I will try to send a notice at least 60 days in advance.
 - Perks:
   - :pencil: Filter to preferred ethnicity ("Near Me" > Filter form)
   - :pencil: Filter to preferred orientation ("Near Me" > Filter form)
@@ -356,10 +351,6 @@ I've created a Donation button on PayPal to seek help with the costs,\
 ### Scambaiters
 
 - :pencil: Ability to create persona's profiles through their own
-
-### Cops / Police
-
-- :pencil:
 
 ### Mod / Admin Controls
 

@@ -56,6 +56,9 @@
         <a href="#scambaiters">Scambaiters</a>
       </td>
       <td>
+        <a href="#police">Police</a>
+      </td>
+      <td>
         <a href="#mod--admin-controls">Mod / Admin Controls</a>
       </td>
     </tr>
@@ -325,6 +328,9 @@ I've created a Donation button on PayPal to seek help with the costs,\
 
 ### Scambaiters
 - :pencil: Ability to create persona's profiles through their own
+
+### Police
+- :pencil: ?
 
 ### Mod / Admin Controls
 - :pencil: Everything

@@ -166,7 +166,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
 
 ### Profile
 - :heavy_check_mark: Profile pic, nice and large
-- :heavy_check_mark: Friends List,
+- :heavy_check_mark: Friends List
 - :heavy_check_mark: Can "request" and "cancel" friend requests, also can block people
 - :pencil: Initialize/continue the conversation from the profile
 - :pencil: Ability to allow the user to design what their profile looks like, like MySpace
@@ -250,6 +250,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - :pencil: Filter to preferred ethnicity ("Near Me" > Filter form)
   - :pencil: Filter to preferred orientation ("Near Me" > Filter form)
   - :white_check_mark: "Reverse Filter" ("Near Me" > Filter form)
+  - :pencil: Create multiple style presets (Profile)
   - :heavy_check_mark: Set nickname (Profile > About)
   - :pencil: Set orientation (Profile > About)
   - :heavy_check_mark: Set ethnicity (Profile > About)

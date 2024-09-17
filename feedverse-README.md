@@ -27,9 +27,6 @@
     </tr>
     <tr>
       <td>
-        <a href="#stats">Stats</a>
-      </td>
-      <td>
         <a href="#family">Family</a>
       </td>
       <td>
@@ -44,6 +41,7 @@
       <td>
         <a href="#addons">Addons</a>
       </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -126,6 +124,13 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - :heavy_check_mark: Link to the "Photos" tab on the Profile page
   - :white_check_mark: Shows current Versebucks amount, with links to Buy & Exchange (both launch modal windows)
     - added a Versebucks coin image to the "Buy" modal
+  - :pencil: "Stats" link, will open collapsable panel between "profile box" & "actions", will do Ajax fetch everytime panel uncollapses
+    - :heavy_check_mark: Shows how many statuses wrote (1)
+    - :heavy_check_mark: Shows how many "questions" you wrote and received (2)
+    - :heavy_check_mark: Shows how many likes you gave and received (2)
+    - :heavy_check_mark: Shows how many comments you've written and gotten (2)
+    - :heavy_check_mark: Shows how many conversations you've started & received (2)
+    - :heavy_check_mark: Shows how many messages you've written (2)
   - :heavy_check_mark: Button-link to subscription form
 - Actions (aka Notifications)
   - :white_check_mark: New Friend Request Count
@@ -234,13 +239,6 @@ I've created a Donation button on PayPal to seek help with the costs,\
 
 ### Profile Views
 - :heavy_check_mark: Lists the people who've visited your profile (needs to change the layout)
-
-### Stats
-- :heavy_check_mark: Shows how many statuses wrote
-- :heavy_check_mark: Shows wall posts you wrote and received
-- :heavy_check_mark: Shows how many likes you gave and received
-- :heavy_check_mark: Shows how many comments you've written and gotten
-- :heavy_check_mark: Shows how many conversations you've started & received, and how many messages you've written
 
 ### Subscription
 - :white_check_mark: The entire page

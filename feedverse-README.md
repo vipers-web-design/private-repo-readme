@@ -124,13 +124,6 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - :heavy_check_mark: Link to the "Photos" tab on the Profile page
   - :white_check_mark: Shows current Versebucks amount, with links to Buy & Exchange (both launch modal windows)
     - added a Versebucks coin image to the "Buy" modal
-  - :pencil: "Stats" link, will open collapsable panel between "profile box" & "actions", will do Ajax fetch everytime panel uncollapses
-    - :white_check_mark: Shows how many statuses wrote (1)
-    - :white_check_mark: Shows how many "questions" you wrote and received (2)
-    - :white_check_mark: Shows how many likes you gave and received (2)
-    - :white_check_mark: Shows how many comments you've written and gotten (2)
-    - :white_check_mark: Shows how many conversations you've started & received (2)
-    - :white_check_mark: Shows how many messages you've written (2)
   - :heavy_check_mark: Button-link to subscription form
 - Actions (aka Notifications)
   - :white_check_mark: New Friend Request Count
@@ -145,6 +138,13 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - :white_check_mark: Shows when you've been unfriended
 - Online Friends
   - :white_check_mark: Shows friends who are online at the time of page load
+- Stats
+  - :white_check_mark: Shows how many statuses wrote (1)
+  - :white_check_mark: Shows how many "questions" you wrote and received (2)
+  - :white_check_mark: Shows how many likes you gave and received (2)
+  - :white_check_mark: Shows how many comments you've written and gotten (2)
+  - :white_check_mark: Shows how many conversations you've started & received (2)
+  - :white_check_mark: Shows how many messages you've written (2)
 - The newsfeeds
   - Tab features:
     - The first three tabs auto-save in DB

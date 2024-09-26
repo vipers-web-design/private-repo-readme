@@ -230,6 +230,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - :heavy_check_mark: Creates new thread
   - :white_check_mark: Notifies when you have unread messages
   - :heavy_check_mark: Displays if & when your message gets read
+  - :pencil: Conversation search
   - :pencil: Ajax fetch
   - :pencil: Ajax reply
 

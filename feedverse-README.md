@@ -282,7 +282,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
   - Shows your most recent status that doesn't have any pictures included in the post
   - A WYSIWYG editor to share status updates
   - **_**ONLY IF YOU ARE VIEWING YOUR OWN PROFILE**_** Collapsable panel containing file-input field
-    - Limit of 5 images to be added
+    - Limit of 2 images to be added
     - Accepts file types; JPEG/JPG, PNG, and GIF. The JPEG/JPG and PNG get converted to WEBP during the upload process
   - The share button, disabled by default until the WYSIWYG or file input contains something, will (should) return to the default state if both fields are empty.
 - :heavy_check_mark: "Friend Request" system operational (add, remove, cancel, block, unblock)
@@ -299,7 +299,7 @@ I've created a Donation button on PayPal to seek help with the costs,\
 - :heavy_check_mark: Legal pages, gotta be transparent
 - :heavy_check_mark: Collapse comments on posts on load if there are more than 2 comments
 - :white_check_mark: When someone turns 18, update their age filters automatically
-- :pencil: Proper error messages if a specific action fail
+- :pencil: Proper error messages if a specific action fails
 - :white_check_mark: User search / autocomplete
 - :white_check_mark: Add a "Load More" infinite scroll on the newsfeeds and private messages
 - Post/status updates & comment actions
@@ -312,9 +312,10 @@ I've created a Donation button on PayPal to seek help with the costs,\
     - :white_check_mark: Delete
     - :white_check_mark: Report
 - Image upload where necessary
-  - :heavy_check_mark: Status Update (max 5 images, allow - jpeg/jpg, png, gif... jpeg/jpg & png images converted to webp on upload)
+  - :heavy_check_mark: Status Update (max 2 images, allow - jpeg/jpg, png, gif... jpeg/jpg & png images converted to webp on upload)
   - :pencil: Comment picture (max 1, allows the same as the status update, will also convert to webp)
-  - :pencil: Messages picture (max 5? allows the same as the status update, will also convert to webp)
+  - :pencil: Messages picture (max 2? allows the same as the status update, will also convert to webp)\
+  Note: I wanted to allow a maximum of 5 images, but uploading 3+ images to Cloudinary will work—but the API or something will return Code 500 "Internal Server Error"—which might be because of the Free Plan.
 - :pencil: Create phone apps for Android and iOS
 
 ### Addons
